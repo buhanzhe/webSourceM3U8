@@ -119,10 +119,10 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 芜湖新闻综合,webview://https://www.wuhubtv.com/folder1194/
 芜湖生活,webview://https://www.wuhubtv.com/folder1194/?ujs=JCQoJy5uYXZMaXN0IGFbdGl0bGU9IueUn+a0u+mikemBkyJdJykuY2xpY2soKQ==
 亳州农村,webview://https://www.ahbztv.com/televisi0n.html?ujs=JCQoJyNjaGFubmVsIC5zd2lwZXItc2xpZGUnKS5maWx0ZXIoZnVuY3Rpb24oKSB7cmV0dXJuICQkKHRoaXMpLnRleHQoKS50cmltKCkgPT09ICflhpzmnZHpopHpgZMnO30pLmNsaWNrKCk=
-淮北新闻综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://vms-x.hbnews.net/video/xwzh/index.m3u8
-淮北经济生活,webview://https://tv.utao.tv/tv-web/live.html?url=https://vms-x.hbnews.net/video/JJSH/index.m3u8
-宿州新闻综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://live.ahsz.tv/video/s10001-szzh/index.m3u8
-宿州科教生活,webview://https://tv.utao.tv/tv-web/live.html?url=https://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+淮北新闻综合,https://vms-x.hbnews.net/video/xwzh/index.m3u8
+淮北经济生活,https://vms-x.hbnews.net/video/JJSH/index.m3u8
+宿州新闻综合,https://live.ahsz.tv/video/s10001-szzh/index.m3u8
+宿州科教生活,https://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 
 福建频道,#genre#
 福建新闻,webview://https://live.fjtv.net/xwpd/
@@ -151,8 +151,8 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 海峡卫视,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248523855695872&company_id=468&utaot=1
 厦门卫视,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727571808803282944&company_id=468&utaot=1
 福州新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=731087090473676800&company_id=468&utaot=1
-福州生活,webview://https://tv.utao.tv/tv-web/live.html?url=https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-福建文体,webview://https://tv.utao.tv/tv-web/live.html?url=https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+福州生活,https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建文体,https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 漳州新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727214415649083392&company_id=468&utaot=1
 龙岩综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727212352215093248&company_id=468&utaot=1
 三明综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727216678547394560&company_id=468&utaot=1
@@ -174,13 +174,13 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 甘肃移动电视,webview://https://www.gstv.com.cn/tv-web/live.html?url=https://hls.gstv.com.cn/skt649/w07at3.m3u8
 兰州新闻综合,webview://https://lanzhoubcnew.zainanjing365.com/share/live/detailTv?resourceId=12&appscheme=gdmm-ailanzhou
 兰州文旅,webview://https://lanzhoubcnew.zainanjing365.com/share/live/detailTv?resourceId=14&appscheme=gdmm-ailanzhou
-陇南综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://play.kankanlive.com/live/1709171819929902.m3u8
-陇南公共,webview://https://tv.utao.tv/tv-web/live.html?url=https://play.kankanlive.com/live/1709171893138901.m3u8
-白银综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://play.kankanlive.com/live/1720408089419110.m3u8
-白银文化教育,webview://https://tv.utao.tv/tv-web/live.html?url=https://play.kankanlive.com/live/1720408280309109.m3u8
-定西综合,webview://https://tv.utao.tv/tv-web/live.html?url=http://play.kankanlive.com/live/1745232061100288.m3u8
-定西文旅生活,webview://https://tv.utao.tv/tv-web/live.html?url=http://play.kankanlive.com/live/1745232082475287.m3u8
-平凉新闻综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://play.kankanlive.com/live/1694661314645984.m3u8
+陇南综合,https://play.kankanlive.com/live/1709171819929902.m3u8
+陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
+白银文化教育,https://play.kankanlive.com/live/1720408280309109.m3u8
+定西综合,http://play.kankanlive.com/live/1745232061100288.m3u8
+定西文旅生活,http://play.kankanlive.com/live/1745232082475287.m3u8
+平凉新闻综合,https://play.kankanlive.com/live/1694661314645984.m3u8
 
 广东频道,#genre#
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
@@ -425,7 +425,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
 齐齐哈尔新闻综合,webview://https://www.qqhrnews.cn/p/qiqihaerxinwen.html
 齐齐哈尔经济·法治,webview://https://www.qqhrnews.cn/p/jingjifazhipindao.html
-绥化新闻综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
+绥化新闻综合,https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
 
 湖北频道,#genre#
 襄阳经济生活,webview://https://xiangyang.cjyun.org/app/streamradio/138
@@ -549,11 +549,11 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 江苏教育,webview://https://live.jstv.com/?tag=江苏教育
 江苏体育·休闲,webview://https://live.jstv.com/?tag=体育休闲
 江苏国际,webview://https://live.jstv.com/?tag=江苏国际
-苏州新闻综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州社会经济,webview://https://tv.utao.tv/tv-web/live.html?url=https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州电影娱乐,webview://https://tv.utao.tv/tv-web/live.html?url=https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-苏州生活资讯,webview://https://tv.utao.tv/tv-web/live.html?url=https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-苏州4K,webview://https://tv.utao.tv/tv-web/live.html?url=https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 南通新闻综合,webview://https://www.ntjoy.com/ntw/broadcastTvs.html?menuCode=ntw005
 
 江西频道,#genre#
@@ -767,12 +767,12 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 新建兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 八师石河子新闻综合,webview://http://www.shznews.com/TV.html
-克拉玛依汉语综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
-克拉玛依维语综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
-克拉玛依文化影视,webview://https://tv.utao.tv/tv-web/live.html?url=https://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
-哈密汉语综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
-哈密维语综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-哈密影视文艺,webview://https://tv.utao.tv/tv-web/live.html?url=https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
+克拉玛依汉语综合,https://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
+克拉玛依维语综合,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
+克拉玛依文化影视,https://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
+哈密汉语综合,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
+哈密维语综合,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+哈密影视文艺,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 
 云南频道,#genre#
 云南卫视,webview://https://www.yntv.cn/live.html
@@ -832,8 +832,8 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 上海教育,webview://https://www.setv.sh.cn/#/tvshow
 武汉教育,webview://https://ronghehao-h5.whjyapp.com/#/pages/live/tv
 昆明教育,webview://https://kmjy.kmetv.com/application/tenma01ds_tvradio/view/web/#/
-郑州教育,webview://https://tv.utao.tv/tv-web/live.html?url=https://livezzutv.chinamcache.com/live/zb02.m3u8
-平顶山教育,webview://https://tv.utao.tv/tv-web/live.html?url=http://219.150.204.175:81/hls/live1.m3u8
+郑州教育,https://livezzutv.chinamcache.com/live/zb02.m3u8
+平顶山教育,http://219.150.204.175:81/hls/live1.m3u8
 
 北京频道,#genre#
 北京卫视,webview://https://www.btime.com/btv/btvsy_index?tag=0
@@ -920,8 +920,8 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 乌兰察布经济生活,webview://https://res.wrbtv.cn/html/rft/live.html?channelId=f5c8509c3b7b4c76b691d1863be29d27&type=1&siteId=82dcdad6b80b4f2d8a13067e5fce2e7a&shareAppId=82dcdad6b80b4f2d8a13067e5fce2e7a
 
 西藏频道,#genre#
-拉萨藏语综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
-拉萨综合,webview://https://tv.utao.tv/tv-web/live.html?url=https://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
-拉萨文化旅游,webview://https://tv.utao.tv/tv-web/live.html?url=https://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
-日喀则汉语,webview://https://tv.utao.tv/tv-web/live.html?url=https://console.rkzrm.cn:20323/4.m3u8
-日喀则藏语,webview://https://tv.utao.tv/tv-web/live.html?url=https://console.rkzrm.cn:20323/8.m3u8
+拉萨藏语综合,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
+拉萨综合,https://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
+拉萨文化旅游,https://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
+日喀则汉语,https://console.rkzrm.cn:20323/4.m3u8
+日喀则藏语,https://console.rkzrm.cn:20323/8.m3u8
