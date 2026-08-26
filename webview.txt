@@ -350,21 +350,21 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 石家庄文化娱乐,webview://https://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=6
 
 河南频道,#genre#
-河南都市频道,webview://https://www.hntv2.net/index.html#/pages/tv/index
-河南卫视,webview://https://static.hntv.tv/kds/#/
 河南卫视,https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+河南卫视,webview://https://static.hntv.tv/kds/#/
 河南新闻,webview://https://static.hntv.tv/total/television/?id=149&u-link=1
 河南都市,https://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
+河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
 河南民生,https://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
 河南梨园,https://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
 河南法治,webview://https://static.hntv.tv/total/television/?id=147&u-link=1
 河南公共,webview://https://static.hntv.tv/total/television/?id=151&u-link=1
-河南乡村,webview://https://static.hntv.tv/total/television/?id=152&u-link=1
 河南乡村,https://media.hndyjyfw.gov.cn/live/jz-hnxnc/live.m3u8
+河南乡村,webview://https://static.hntv.tv/total/television/?id=152&u-link=1
 河南电视剧,webview://https://static.hntv.tv/total/television/?id=148&u-link=1
 河南文物宝库,webview://https://static.hntv.tv/total/television/?id=155&u-link=1
-河南武术世界,webview://https://static.hntv.tv/total/television/?id=156&u-link=1
 河南武术世界,https://media.hndyjyfw.gov.cn/live/jz-hnwssj/live.m3u8
+河南武术世界,webview://https://static.hntv.tv/total/television/?id=156&u-link=1
 河南曲艺,webview://https://static.hntv.tv/total/television/?id=157&u-link=1
 河南移动戏曲,webview://https://static.hntv.tv/total/television/?id=163&u-link=1
 河南象视界,webview://https://static.hntv.tv/total/television/?id=183&u-link=1
