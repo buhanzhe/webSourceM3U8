@@ -1,0 +1,15 @@
+网页收藏,#genre#
+墨墨背单词,webview://https://www.maimemo.com/home/login?continue=home/web_study
+小霸王,webview://https://www.yikm.net/
+环游世界,webview://https://www.airpano.org.cn/
+环球电视电台,webview://https://famelack.com/
+09年的B站,webview://https://www.bilibili.com/blackboard/bilibili2009.html
+四大名著,webview://http://www.sdmz.cn/
+故宫名画,webview://https://minghuaji.dpm.org.cn/
+诗词星河,webview://https://poetry-stars.vercel.app/
+4399,webview://https://4399.com
+7k7k,webview://https://www.7k7k.com/
+宝玩,webview://https://poki.com/zh
+疯狂游戏,webview://https://www.crazygames.com/
+熊猫频道,webview://https://live.ipanda.com/
+代码雨,webview://https://vinish.dev/matrix-code-rain
