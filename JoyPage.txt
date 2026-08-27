@@ -1,4 +1,5 @@
 网页收藏,#genre#
+龙喵导航,webview://https://ailongmiao.com/
 墨墨背单词,webview://https://www.maimemo.com/home/login?continue=home/web_study
 工具哇,webview://https://toolwa.com/
 CCTV,webview://https://tv.cctv.com/
