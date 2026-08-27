@@ -1,5 +1,6 @@
 网页收藏,#genre#
 墨墨背单词,webview://https://www.maimemo.com/home/login?continue=home/web_study
+工具哇,webview://https://toolwa.com/
 CCTV,webview://https://tv.cctv.com/
 yandex,webview://https://yandex.com/
 小霸王,webview://https://www.yikm.net/
