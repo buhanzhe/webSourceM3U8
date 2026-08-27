@@ -153,13 +153,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 东莞生活咨询,webview://https://dgrtv.sun0769.com/online/280.html
 东莞新闻综合,webview://https://dgrtv.sun0769.com/online/279.html
-佛山顺德,webview://http://xiubo.net/tv/gd/fssd.html
-佛山公共,webview://http://xiubo.net/tv/gd/fsgg.html
-佛山影视,webview://http://xiubo.net/tv/gd/fsys.html
-佛山高明,webview://http://xiubo.net/tv/gd/fsgm.html
-佛山三水,webview://http://xiubo.net/tv/gd/fsss.html
-佛山综合,webview://http://xiubo.net/tv/gd/fszh.html
-佛山南海,webview://http://xiubo.net/tv/gd/fsnh.html
 江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
 江门侨乡生活,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 河源综合,webview://https://www.hyrtv.cn/itv/zhds/
@@ -179,12 +172,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 清远新闻综合,webview://https://www.qyrb.cn/tv/rM834x3d5a.html
 韶关新闻综合,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.HGiuAr&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
-揭阳公共,webview://https://ap.jyrtv.tv/application/tvradio/h5/detail.html?type=tv&id=11
-揭阳生活,webview://https://ap.jyrtv.tv/application/tvradio/h5/detail.html?type=tv&id=12
-凤凰卫视资讯台,webview://https://www.fengshows.com/live?tag=0
-凤凰卫视中文台,webview://https://www.fengshows.com/live?tag=1
-凤凰卫视香港台,webview://https://www.fengshows.com/live?tag=2
-香港卫视,webview://http://www.hkstv.tv/index/live/channel/.html
 
 广西频道,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
