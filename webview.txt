@@ -51,8 +51,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-1905电影,webview://https://m.1905.com/m/xl/live/
-1905国际电影,webview://https://www.1905.com/1905tv/live/
 
 卫视频道,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
@@ -425,6 +423,13 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 济源综合,webview://https://static.hntv.tv/total/television/?id=228&u-link=1
 
 黑龙江频道,#genre#
+黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws/
+黑龙江文体,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt/
+黑龙江影视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljys/
+黑龙江新闻法治,webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang/
+黑龙江都市,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds/
+黑龙江农业·科技,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj/
+黑龙江少儿,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljse/
 哈尔滨新闻综合,webview://https://www.hrbtv.net/folder79/folder81/
 哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
 哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
@@ -433,6 +438,12 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 绥化新闻综合,https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
 
 湖北频道,#genre#
+湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
+湖北经视,webview://https://news.hbtv.com.cn/app/tv/432
+湖北综合,webview://https://news.hbtv.com.cn/app/tv/433
+湖北影视,webview://https://news.hbtv.com.cn/app/tv/435
+湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
+湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
 襄阳经济生活,webview://https://xiangyang.cjyun.org/app/streamradio/138
 襄阳综合,webview://https://xiangyang.cjyun.org/app/streamradio/142
 襄阳公共,webview://https://xiangyang.cjyun.org/app/streamradio/130
