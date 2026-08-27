@@ -87,14 +87,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 
 安徽频道,#genre#
-安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
-安徽经济生活,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
-安徽综艺体育,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
-安徽国际,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
-安徽影视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
-安徽公共,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
-安徽农业科教,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
-安徽移动,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
 淮北新闻综合,webview://https://www.hbnews.net/tv/
 亳州综合,webview://https://www.ahbztv.com/televisi0n.html
 滁州新闻综合,webview://http://www.cztv.cc/Live/index?liveid=1
@@ -214,6 +206,8 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+东莞生活咨询,webview://https://dgrtv.sun0769.com/online/280.html
+东莞新闻综合,webview://https://dgrtv.sun0769.com/online/279.html
 佛山顺德,webview://http://xiubo.net/tv/gd/fssd.html
 佛山公共,webview://http://xiubo.net/tv/gd/fsgg.html
 佛山影视,webview://http://xiubo.net/tv/gd/fsys.html
@@ -367,7 +361,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 河南移动戏曲,webview://https://static.hntv.tv/total/television/?id=163&u-link=1
 河南象视界,webview://https://static.hntv.tv/total/television/?id=183&u-link=1
 河南国学,webview://https://static.hntv.tv/total/television/?id=194&u-link=1
-河南远程党员教育,https://media.hndyjyfw.gov.cn/live/jz-b-ycjy/live.m3u8
+河南远程党员教育,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=0
 郑州综合,webview://https://static.hntv.tv/total/television/?id=197&u-link=1
 开封新闻综合,webview://https://www.kftv.net.cn/info/944
 开封文旅,webview://https://www.kftv.net.cn/info/943
@@ -850,16 +844,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 昆明教育,webview://https://kmjy.kmetv.com/application/tenma01ds_tvradio/view/web/#/
 郑州教育,https://livezzutv.chinamcache.com/live/zb02.m3u8
 平顶山教育,http://219.150.204.175:81/hls/live1.m3u8
-
-北京频道,#genre#
-北京卫视,webview://https://www.btime.com/btv/btvsy_index?tag=0
-北京文艺,webview://https://www.btime.com/btv/btvsy_index?tag=1
-北京纪实科教,webview://https://www.btime.com/btv/btvsy_index?tag=2
-北京影视,webview://https://www.btime.com/btv/btvsy_index?tag=3
-北京财经,webview://https://www.btime.com/btv/btvsy_index?tag=4
-北京体育,webview://https://www.btime.com/btv/btvsy_index?tag=5
-北京生活,webview://https://www.btime.com/btv/btvsy_index?tag=6
-北京新闻,webview://https://www.btime.com/btv/btvsy_index?tag=7
 
 深圳频道,#genre#
 深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867&u-link=1
