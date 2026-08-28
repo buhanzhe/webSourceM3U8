@@ -21,7 +21,7 @@ QQ音乐,webview://https://y.qq.com
 国家中小学智慧教育平台,webview://https://basic.smartedu.cn
 国家高等教育智慧教育平台,webview://https://higher.smartedu.cn
 国家开放大学终身教育平台,webview://https://le.ouchn.cn/home
-国家职业教育智慧教育平台,webview://https://www.smartedu.cn
+国家智慧教育平台,webview://https://www.smartedu.cn
 中国大学MOOC(慕课),webview://https://www.icourse163.org
 中国高校外语慕课,webview://http://moocs.unipus.cn
 学堂在线,webview://https://www.xuetangx.com
@@ -33,8 +33,8 @@ TED(演讲),webview://https://www.ted.com
 中国国家数字图书馆,webview://https://www.nlc.cn
 国图公开课,webview://http://open.nlc.cn
 全历史(历史知识),webview://https://www.allhistory.com
-央视纪实(纪录片),webview://https://jishi.cctv.com
-术语在线(专业术语),webview://https://www.termonline.cn
+央视纪录片,webview://https://jishi.cctv.com
+术语在线,webview://https://www.termonline.cn
 四大名著,webview://http://www.sdmz.cn
 
 科普网站,#genre#
@@ -42,7 +42,19 @@ TED(演讲),webview://https://www.ted.com
 果壳,webview://https://www.guokr.com
 科普中国,webview://https://www.kepuchina.cn
 中国国家博物馆,webview://https://www.chnmuseum.cn
+全景故宫,webview://https://pano.dpm.org.cn/
+故宫数字文物库,webview://https://digicol.dpm.org.cn/
+故宫名画记,webview://https://minghuaji.dpm.org.cn/
 数字敦煌,webview://https://www.e-dunhuang.com
+甘肃石窟全景漫游,webview://https://vr.e-dunhuang.com/
+数字敦煌开放素材库,webview://https://ip.e-dunhuang.com/
+数字藏经洞,webview://https://cave17.e-dunhuang.com/
+云上龙门,webview://https://lmsk.org.cn/home/vr.html
+美璟龙门,webview://https://vr.mzgf.com/?projectCode=00g6201M
+大足石刻数字博物馆,webview://https://www.dzskyjy.cn/web/column/col5008934.html
+全景大足,webview://https://www.dzskyjy.cn/web/column/col5008981.html
+数字多宝阁,webview://https://www.dpm.org.cn/shuziduobaoge/html.html
+
 NASA Eyes,webview://https://science.nasa.gov/eyes
 Stellarium Web,webview://https://stellarium-web.org
 地球气象,webview://https://earth.nullschool.net/zh-cn
@@ -53,10 +65,10 @@ Stellarium Web,webview://https://stellarium-web.org
 果汁排行榜,webview://http://guozhivip.com/rank
 工具哇,webview://https://toolwa.com
 yandex,webview://https://yandex.com
-必应,webview://https://www.bing.com
 720云,webview://https://www.720yun.com
+美璟世界,webview://https://www.mzgf.com/
+必应,webview://https://www.bing.com
 视觉中国,webview://https://www.vcg.com
-秀色女神,webview://https://www.xsnvshen.co
 09年的B站,webview://https://www.bilibili.com/blackboard/bilibili2009.html
 Neal.fun,webview://https://neal.fun
 4399,webview://https://4399.com
