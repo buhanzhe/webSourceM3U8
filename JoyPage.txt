@@ -55,11 +55,8 @@ Stellarium Web,webview://https://stellarium-web.org
 yandex,webview://https://yandex.com
 必应,webview://https://www.bing.com
 720云,webview://https://www.720yun.com
-全景城市,webview://https://www.360cities.net
 视觉中国,webview://https://www.vcg.com
-美人图,webview://https://meirentu.cc
 秀色女神,webview://https://www.xsnvshen.co
-环球电视电台,webview://https://famelack.com
 09年的B站,webview://https://www.bilibili.com/blackboard/bilibili2009.html
 Neal.fun,webview://https://neal.fun
 4399,webview://https://4399.com
