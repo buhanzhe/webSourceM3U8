@@ -1,7 +1,7 @@
 影音网站,#genre#
 央视网,webview://https://tv.cctv.com/
 央视频,webview://https://www.yangshipin.cn/
-爱奇艺,https://www.iqiyi.com/
+爱奇艺,webview://https://www.iqiyi.com/
 优酷,webview://https://www.youku.com/
 腾讯视频,webview://https://v.qq.com/
 芒果TV,webview://https://www.mgtv.com/
