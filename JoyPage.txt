@@ -45,15 +45,14 @@ TED(演讲),webview://https://www.ted.com
 全景故宫,webview://https://pano.dpm.org.cn/
 故宫数字文物库,webview://https://digicol.dpm.org.cn/
 故宫名画记,webview://https://minghuaji.dpm.org.cn/
+数字多宝阁,webview://https://www.dpm.org.cn/shuziduobaoge/html.html
 数字敦煌,webview://https://www.e-dunhuang.com
 甘肃石窟全景漫游,webview://https://vr.e-dunhuang.com/
 数字敦煌开放素材库,webview://https://ip.e-dunhuang.com/
 数字藏经洞,webview://https://cave17.e-dunhuang.com/
 云上龙门,webview://https://lmsk.org.cn/home/vr.html
 美璟龙门,webview://https://vr.mzgf.com/?projectCode=00g6201M
-大足石刻数字博物馆,webview://https://www.dzskyjy.cn/web/column/col5008934.html
 全景大足,webview://https://www.dzskyjy.cn/web/column/col5008981.html
-数字多宝阁,webview://https://www.dpm.org.cn/shuziduobaoge/html.html
 
 NASA Eyes,webview://https://science.nasa.gov/eyes
 Stellarium Web,webview://https://stellarium-web.org
