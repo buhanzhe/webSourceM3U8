@@ -391,7 +391,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 延安综合,https://srs.yanews.cn/video/YATV-1/index.m3u8
 延安公共,https://srs.yanews.cn/video/YATV-2/index.m3u8
 咸阳综合,webview://https://www.sxxynews.com.cn/tvradio/xyzhpd.html
-咸阳公共,webview://https://www.sxxynews.com.cn/tvradio/xyggpd.html
 
 上海频道,#genre#
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
