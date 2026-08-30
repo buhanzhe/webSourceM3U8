@@ -455,6 +455,26 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 深圳国际,webview://https://www.sztv.com.cn/dianshi.shtml?id=7944&u-link=1
 
 四川频道,#genre#
+成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
+成都经济咨询,webview://https://www.cditv.cn/show/4845-562.html
+成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
+成都影视文艺,webview://https://www.cditv.cn/show/4845-560.html
+成都生活,webview://https://www.cditv.cn/show/4845-559.html
+成都少儿,webview://https://www.cditv.cn/show/4845-558.html
+成都蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
+简阳新闻综合,webview://https://www.cditv.cn/show/4844-578.html
+彭州综合,webview://https://www.cditv.cn/show/4844-576.html
+青白江电视,webview://https://www.cditv.cn/show/4844-584.html
+浦江电视,webview://https://www.cditv.cn/show/4844-571.html
+大邑电视,webview://https://www.cditv.cn/show/4844-572.html
+金堂电视,webview://https://www.cditv.cn/show/4844-573.html
+邛崃综合,webview://https://www.cditv.cn/show/4844-575.html
+郫都新闻综合https://www.cditv.cn/show/4844-580.html
+双流综合,webview://https://www.cditv.cn/show/4844-581.html
+新都综合,webview://https://www.cditv.cn/show/4844-583.html
+成华有线,webview://https://www.cditv.cn/show/4844-586.html
+武侯电视,webview://https://www.cditv.cn/show/4844-587.html
+金牛,webview://https://www.cditv.cn/show/4844-588.html
 南江综合,webview://https://web.guangdianyun.tv/tv/?id=1670&uin=1822
 泸县综合,webview://https://web.guangdianyun.tv/tv/?id=1645&uin=2392
 绵竹综合,webview://https://web.guangdianyun.tv/tv/?id=1933&uin=3277
