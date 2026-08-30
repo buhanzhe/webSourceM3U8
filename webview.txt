@@ -91,13 +91,8 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 合肥科创,webview://https://app.hfbtc.cn/shows/2/3.html
 合肥教育法治,webview://https://app.hfbtc.cn/shows/2/4.html
 铜陵新闻综合,webview://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=56
-铜陵教育科技,webview://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=58
-黄山新闻综合,webview://http://www.hsnewsnet.com/web/tvnews/
-黄山文旅,webview://http://www.hsnewsnet.com/web/tvlife/
 阜阳新闻综合,webview://https://web.guangdianyun.tv/tv/2851?uin=2577
-阜阳教育,webview://https://web.guangdianyun.tv/tv/2852?uin=2577
 阜阳生活,webview://https://web.guangdianyun.tv/tv/2853?uin=2577
-阜阳都市文艺,webview://https://web.guangdianyun.tv/tv/2854?uin=2577
 宿州新闻综合,https://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州科教生活,https://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 
@@ -108,8 +103,8 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 
 甘肃频道,#genre#
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
-兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 兰州新闻综合,webview://https://lanzhoubcnew.zainanjing365.com/share/live/detailTv?resourceId=12&appscheme=gdmm-ailanzhou
+兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 兰州文旅,webview://https://lanzhoubcnew.zainanjing365.com/share/live/detailTv?resourceId=14&appscheme=gdmm-ailanzhou
 定西综合,http://play.kankanlive.com/live/1745232061100288.m3u8
 定西文旅生活,http://play.kankanlive.com/live/1745232082475287.m3u8
@@ -131,10 +126,7 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
-GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
-GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
 深圳都市,webview://https://www.sztv.com.cn/dianshi.shtml?id=7868
 深圳电视剧,webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
@@ -150,21 +142,13 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 东莞生活咨询,webview://https://dgrtv.sun0769.com/online/280.html
 东莞新闻综合,webview://https://dgrtv.sun0769.com/online/279.html
-江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
-江门侨乡生活,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
+江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 河源综合,webview://https://www.hyrtv.cn/itv/zhds/
-河源公共,webview://https://www.hyrtv.cn/itv/ggds/
+河源生活,webview://https://www.hyrtv.cn/itv/ggds/
 清远新闻综合,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=1
 清远文旅生活,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=3
 韶关,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
-云浮综合,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
-云浮文旅,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
-广东现代教育,webview://https://www.gdtv.cn/tvChannelDetail/111
-广州综合,webview://https://app.gztv.com/plusshare/?a=1#/tvDetail?code=3001
-广州新闻,webview://https://app.gztv.com/plusshare/?a=2#/tvDetail?code=3002
-广州南国都市,webview://https://app.gztv.com/plusshare/?a=3#/tvDetail?code=3003
-广州法制,webview://https://app.gztv.com/plusshare/?a=4#/tvDetail?code=3004
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 清远新闻综合,webview://https://www.qyrb.cn/tv/rM834x3d5a.html
@@ -183,7 +167,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 贵州生态乡村,webview://https://www.gzstv.com/tv/ch05
 贵州科教健康,webview://https://www.gzstv.com/tv/ch06
 贵州移动,webview://https://www.gzstv.com/tv/ch13
-肇庆生活,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
+肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
 黔南新闻综合,webview://http://m.qntv.net/cms-tv
 安顺新闻综合,webview://https://www.gzastv.cn/live/live.shtml
 
@@ -191,7 +175,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 海南卫视,webview://http://tc.hnntv.cn/
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 海南新闻,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3&referPage=home
-海南公共,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4&referPage=home
+海南社会与法,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4&referPage=home
 海南文旅,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home
 海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7&referPage=home
 海南自贸,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1&referPage=home
@@ -199,19 +183,18 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 河北频道,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
-河北农民,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
-河北都市,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
-河北影视剧,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
-河北少儿,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
-河北文旅公共,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
-河北三佳购物,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=7
+河北都市,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+河北文旅体育,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+河北少儿科教,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
+河北三农,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
+河北三佳购物,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
 
 河南频道,#genre#
 河南卫视,webview://https://static.hntv.tv/kds/#/
 河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 河南新闻,webview://https://static.hntv.tv/total/television/?id=149&u-link=1
-河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
 河南都市,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
 河南民生,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
 河南梨园,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 河南法治,webview://https://static.hntv.tv/total/television/?id=147&u-link=1
@@ -226,9 +209,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 河南国学,webview://https://static.hntv.tv/total/television/?id=194&u-link=1
 河南远程党员教育,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=0
 郑州综合,webview://https://static.hntv.tv/total/television/?id=197&u-link=1
-开封综合,webview://https://static.hntv.tv/total/television/?id=198&u-link=1
-开封新闻综合,webview://https://app.kftv.net.cn/tv?id=4576506160452924712&bundleID=8694949894473483736&type=1&tvType=1#
-开封文化旅游,webview://https://app.kftv.net.cn/tv?id=1373356224162401385&bundleID=8694949894473483736&type=1&tvType=1#
+开封新闻综合,webview://https://static.hntv.tv/total/television/?id=198&u-link=1
 洛阳综合,https://live.lytv.com.cn/live/LYTV1.m3u8
 洛阳综合,webview://https://static.hntv.tv/total/television/?id=204&u-link=1
 洛阳科教,https://live.lytv.com.cn/live/LYTV2.m3u8
@@ -242,8 +223,8 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 焦作综合,webview://https://static.hntv.tv/total/television/?id=209&u-link=1
 焦作综合,webview://http://www.jzrt.com/list-zhpd.html
 焦作综合,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=a15a6b9e3e1f435584f903641e85a975
-焦作公共,webview://http://www.jzrt.com/list-ggpd.html
-焦作公共,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=6a8a51398cf44ad28bb7808afdc94f4d
+焦作文旅,webview://http://www.jzrt.com/list-ggpd.html
+焦作文旅,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=6a8a51398cf44ad28bb7808afdc94f4d
 濮阳综合,webview://https://static.hntv.tv/total/television/?id=219&u-link=1
 许昌综合,webview://https://static.hntv.tv/total/television/?id=220&u-link=1
 许昌综合,webview://http://xctv.cn/2359
@@ -255,14 +236,11 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 信阳综合,webview://https://static.hntv.tv/total/television/?id=225&u-link=1
 信阳综合,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
 信阳文旅,webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
-信阳浉河,webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
-信阳平桥,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
-信阳新闻综合,webview://https://www.xytv.cn/h5/pages/tv/detail?id=137
+信阳综合,webview://https://www.xytv.cn/h5/pages/tv/detail?id=137
 信阳文旅,webview://https://www.xytv.cn/h5/pages/tv/detail?id=138
 周口综合,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.yszkapp.cn:18080/mms4.6.3&token=pmqhukcpyipvqmoz
 周口公共,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=2&mmsurl=http%3A%2F%2Fmms.yszkapp.cn%3A18080%2Fmms4.6.3&token=pmqhukcpyipvqmoz&tencentShare=1
 周口教育,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=3&mmsurl=http%3A%2F%2Fmms.yszkapp.cn%3A18080%2Fmms4.6.3&token=pmqhukcpyipvqmoz&tencentShare=1
-周口川汇,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=4&mmsurl=http%3A%2F%2Fmms.yszkapp.cn%3A18080%2Fmms4.6.3&token=pmqhukcpyipvqmoz&tencentShare=1
 驻马店综合,webview://https://static.hntv.tv/total/television/?id=227&u-link=1
 济源综合,webview://https://static.hntv.tv/total/television/?id=228&u-link=1
 
@@ -282,20 +260,13 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 绥化新闻综合,https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
 
 湖南频道,#genre#
-长沙新闻,webview://https://live.mgtv.com/?channelId=269
-长沙政法,webview://https://live.mgtv.com/?channelId=254
-娄底1,webview://http://www.ldntv.cn/folder51/folder154/folder171
 金鹰卡通,webview://https://www.mgtv.com/live
+娄底1,webview://http://www.ldntv.cn/folder51/folder154/folder171
 
 吉林频道,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv?tag=0
-吉林都市,webview://https://www.jlntv.cn/tv?tag=1
-吉林生活,webview://https://www.jlntv.cn/tv?tag=2
-吉林影视,webview://https://www.jlntv.cn/tv?tag=3
-吉林乡村,webview://https://www.jlntv.cn/tv?tag=4
-吉林综艺·文化,webview://https://www.jlntv.cn/tv?tag=5
 延边汉语综合,webview://https://www.iyb983.cn/ybtv2/
-延边朝语综合,webview://https://www.iyb983.cn/live/index.html、
+延边朝语综合,webview://https://www.iyb983.cn/live/index.html
 延边卫视,webview://https://www.iyb983.cn/cys/
 
 江苏频道,#genre#
@@ -405,7 +376,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 新疆3套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=4
 新疆4套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=16
 新疆5套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=17
-新疆8套webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+新疆8套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 新建兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 
 云南频道,#genre#
