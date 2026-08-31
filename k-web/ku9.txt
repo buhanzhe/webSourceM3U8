@@ -1,4 +1,4 @@
-# 湖南ipv6
+湖南ipv6,#genre#
 CCTV4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
 CCTV16-4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
 东方卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
