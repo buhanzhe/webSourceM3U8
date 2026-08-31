@@ -21,3 +21,6 @@ CCTV16-4K,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
 山东卫视4K,http://A/ku9/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
 深圳卫视4K,http://A/ku9/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
 浙江卫视4K,http://A/ku9/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
+
+凤凰官网,#genre#
+中文台,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/fenghuang.js?id=1016529
