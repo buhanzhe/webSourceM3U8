@@ -1,118 +1,29 @@
 /**
- * 根据凤凰网直播 ID 获取真实视频播放地址
- * @param {string} videoId
- * @returns {Promise<string|null>}
+ * 根据凤凰风直播 ID 获取真实视频播放地址。
+ * 酷9会把 { url, name } 传给 main；网络请求必须通过 ku9 桥接完成。
  */
-async function getVideoUrl(videoId) {
+function main(item) {
+    var sourceUrl = item && item.url ? String(item.url) : String(item || "");
+    var match = sourceUrl.match(/[?&]id=([^&#]+)/);
+    var videoId = match ? decodeURIComponent(match[1]) : sourceUrl;
     if (!videoId) {
-        return null;
+        throw new Error("缺少凤凰直播 id");
     }
 
-    const targetUrl = `https://flive.ifeng.com/live/${videoId}.html`;
-
-    try {
-        const response = await fetch(targetUrl, {
-            method: "GET",
-            headers: {
-                "User-Agent":
-                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
-                    "AppleWebKit/537.36 (KHTML, like Gecko) " +
-                    "Chrome/120.0.0.0 Safari/537.36",
-                "Referer": "https://jx.ifeng.com/zhibo"
-            }
-        });
-
-        if (!response.ok) {
-            console.log("请求失败:", response.status);
-            return null;
-        }
-
-        const htmlContent = await response.text();
-
-        let match;
-
-        // 1. 优先匹配 url: "xxx.mp4"
-        match = htmlContent.match(
-            /["']url["']\s*:\s*["'](https?:\/\/[^"']+\.mp4)["']/
-        );
-
-        if (match) {
-            return match[1];
-        }
-
-        // 2. 任意 mp4 地址
-        match = htmlContent.match(
-            /(https?:\/\/[^\s"'<>]+\.mp4)/
-        );
-
-        if (match) {
-            return match[1];
-        }
-
-        // 3. 匹配 url: "xxx.m3u8"
-        match = htmlContent.match(
-            /["']url["']\s*:\s*["'](https?:\/\/[^"']+\.m3u8)["']/
-        );
-
-        if (match) {
-            return match[1];
-        }
-
-        // 4. 任意 m3u8 地址
-        match = htmlContent.match(
-            /(https?:\/\/[^\s"'<>]+\.m3u8)/
-        );
-
-        if (match) {
-            return match[1];
-        }
-
-        return null;
-
-    } catch (e) {
-        console.log("请求出错:", e);
-        return null;
+    var pageUrl = "https://flive.ifeng.com/live/" + encodeURIComponent(videoId) + ".html";
+    var html = ku9.get(pageUrl, {
+        "Referer": "https://jx.ifeng.com/zhibo",
+        "Accept": "text/html,application/xhtml+xml"
+    });
+    if (!html) {
+        throw new Error("凤凰直播页面请求失败");
     }
+
+    // 兼容页面中的普通斜杠、转义斜杠、Unicode 转义及 HTML 实体。
+    html = html.replace(/\\u002F/gi, "/").replace(/\\\//g, "/").replace(/&amp;/g, "&");
+    var urlMatch = html.match(/https?:\/\/[^\s"'<>]+\.(?:m3u8|mp4)(?:\?[^\s"'<>]*)?/i);
+    if (!urlMatch) {
+        throw new Error("凤凰直播页面中未找到视频地址");
+    }
+    return urlMatch[0];
 }
-
-
-/**
- * 酷9入口
- * 支持：
- * 1016529
- * https://xxx.com/xxx?id=1016529
- */
-async function main(urlOrId) {
-    let videoId = "";
-
-    if (urlOrId.includes("id=")) {
-        try {
-            const url = new URL(urlOrId);
-            videoId = url.searchParams.get("id") || "";
-        } catch (e) {
-            // URL() 无法解析时使用正则兜底
-            const match = urlOrId.match(/[?&]id=([^&#]+)/);
-
-            if (match) {
-                videoId = decodeURIComponent(match[1]);
-            }
-        }
-    } else {
-        videoId = urlOrId;
-    }
-
-    const realUrl = await getVideoUrl(videoId);
-
-    if (realUrl) {
-        return realUrl;
-    }
-
-    return "Error: 未找到视频";
-}
-
-
-// 测试
-(async () => {
-    const result = await main("1016529");
-    console.log("解析结果:", result);
-})();
