@@ -25,11 +25,4 @@ CCTV16-4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSou
 本地js测试,#genre#
 CCTV4K,http://A/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
 CCTV16-4K,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
-东方卫视4K,http://A/ku9/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
-广东卫视4K,http://A/ku9/js/hnyx.js?id=gdws4K&dur=10.001&offset=175896974
-湖南卫视4K,http://A/ku9/js/hnyx.js?id=hnws4K&dur=10.0066&offset=175789332
-江苏卫视4K,http://A/ku9/js/hnyx.js?id=jsws4K&dur=10.025&offset=175470420
-四川卫视4K,http://A/ku9/js/hnyx.js?id=scws4K&dur=10.032&offset=175363868
-山东卫视4K,http://A/ku9/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
-深圳卫视4K,http://A/ku9/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
-浙江卫视4K,http://A/ku9/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
+字幕音轨测试,https://r.jdshipin.com/62WM7
