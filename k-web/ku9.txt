@@ -22,10 +22,15 @@ CCTV16-4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSou
 凤凰频道,#genre#
 凤凰中文台,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/fenghuang.js?id=1016529
 
-本地js测试,#genre#
-CCTV4K,http://A/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
-CCTV16-4K,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
+测试频道,#genre#
+本地js1,http://A/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
+本地js2,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
 音轨测试,https://r.jdshipin.com/62WM7
 H.264/MPEG-TS多语言字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 H.264/fMP4多语言字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 HEVC/H.264单字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
+Dolby Atmos H264 720P,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v4_packed_audio/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.m3u8
+Dolby Atmos H264 fMP4,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v7_fMP4/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.m3u8
+Dolby Atmos HEVC 1080P,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v7_fMP4/ChID_voices_1920x1080p_25fps_h265_6ch_640kbps_ddp_joc.m3u8
+Dolby Atmos H264 MP4,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/MP4/Example/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.mp4
+Dolby Atmos HEVC MP4,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/MP4/Example/ChID_voices_1920x1080p_25fps_h265_6ch_640kbps_ddp_joc.mp4
