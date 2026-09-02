@@ -22,5 +22,14 @@ CCTV16-4K,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
 深圳卫视4K,http://A/ku9/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
 浙江卫视4K,http://A/ku9/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
 
+吉林频道,#genre#
+吉林卫视,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js??id=jlws
+吉林都市,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js??id=ds
+吉林生活,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js??id=sh
+吉林影视,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js??id=ys
+吉林乡村,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js??id=xc
+吉林综艺文化,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js??id=zy
+长春综合,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js??id=cc
+
 凤凰官网,#genre#
 中文台,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/fenghuang.js?id=1016529
