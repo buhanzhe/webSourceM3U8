@@ -29,8 +29,14 @@ CCTV16-4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSou
 H.264/MPEG-TS多语言字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 H.264/fMP4多语言字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 HEVC/H.264单字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-Dolby Atmos H264 720P,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v4_packed_audio/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.m3u8
-Dolby Atmos H264 fMP4,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v7_fMP4/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.m3u8
-Dolby Atmos HEVC 1080P,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v7_fMP4/ChID_voices_1920x1080p_25fps_h265_6ch_640kbps_ddp_joc.m3u8
-Dolby Atmos H264 MP4,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/MP4/Example/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.mp4
-Dolby Atmos HEVC MP4,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/MP4/Example/ChID_voices_1920x1080p_25fps_h265_6ch_640kbps_ddp_joc.mp4
+DolbyAtmos720PH264,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v4_packed_audio/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.m3u8
+DolbyAtmos720PH264,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v7_fMP4/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.m3u8
+DolbyAtmosHEVC1080P,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/HLS/Manifest_v7_fMP4/ChID_voices_1920x1080p_25fps_h265_6ch_640kbps_ddp_joc.m3u8
+DolbyAtmos720pH264,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/MP4/Example/ChID_voices_1280x720p_25fps_h264_6ch_640kbps_ddp_joc.mp4
+DolbyAtmos1080HEVC,https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/MP4/Example/ChID_voices_1920x1080p_25fps_h265_6ch_640kbps_ddp_joc.mp4
+ms-6mbps-4k,https://test.playready.microsoft.com/media/profficialsite/bbb-3840x2160-cfg02-frag-6mbps.mp4
+ms-12mbps-4k,https://test.playready.microsoft.com/media/profficialsite/bbb-3840x2160-cfg02-frag-12mbps.mp4
+ms-24mbps-4k,https://test.playready.microsoft.com/media/profficialsite/bbb-3840x2160-cfg02-frag-24mbps.mp4
+tearsofsteel_4k_h265,https://test.playready.microsoft.com/media/profficialsite/tearsofsteel_4k_60s_24fps.12000kbps.3840x2160.h265-10b.2ch.128kbps.aac.mp4
+bbb_sunflower4k,https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_2160p_60fps_normal.mp4
+big_buck_bunny4K-h265,https://storage.googleapis.com/vulkan-video-samples/hevc/hevc-big_buck_bunny_2160p.h265
