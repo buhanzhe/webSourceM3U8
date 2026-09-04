@@ -25,6 +25,7 @@ CCTV16-4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSou
 测试频道,#genre#
 本地js1,http://A/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
 本地js2,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
+重庆,webview://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0&from_source=www.cbg.cn
 音轨测试,https://r.jdshipin.com/62WM7
 H.264/MPEG-TS多语言字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 H.264/fMP4多语言字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
