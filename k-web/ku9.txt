@@ -24,6 +24,7 @@ CCTV16-4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSou
 
 测试频道,#genre#
 B站4k免限,webview://https://www.bilibili.com/video/BV1NGZtBwELa
+B站直播测试,webview://https://live.bilibili.com/24022841
 本地js1,http://A/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
 本地js2,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
 重庆js,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/cbg.js?id=https://sj.cbg.cn/wap/list/4918/1.html
