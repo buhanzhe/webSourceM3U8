@@ -1,17 +1,15 @@
 影音网站,#genre#
 央视网,webview://https://tv.cctv.com
 央视频,webview://https://www.yangshipin.cn
+B站,webview://https://www.bilibili.com
 爱奇艺,webview://https://www.iqiyi.com
 优酷,webview://https://www.youku.com
 腾讯视频,webview://https://v.qq.com
 芒果TV,webview://https://www.mgtv.com
-B站,webview://https://www.bilibili.com
 咪咕视频,webview://https://www.miguvideo.com
-熊猫频道,webview://https://live.ipanda.com
 网易云音乐,webview://https://music.163.com
 QQ音乐,webview://https://y.qq.com
 酷狗音乐,webview://https://www.kugou.com
-酷我音乐,webview://https://www.kuwo.cn
 咪咕音乐,webview://https://music.migu.cn
 
 教育网站,#genre#
@@ -20,23 +18,17 @@ QQ音乐,webview://https://y.qq.com
 古诗文网,webview://https://www.gushiwen.cn
 汉典,webview://https://www.zdic.net
 国家中小学智慧教育平台,webview://https://basic.smartedu.cn
-国家高等教育智慧教育平台,webview://https://higher.smartedu.cn
-国家开放大学终身教育平台,webview://https://le.ouchn.cn/home
-国家智慧教育平台,webview://https://www.smartedu.cn
 中国大学MOOC(慕课),webview://https://www.icourse163.org
 中国高校外语慕课,webview://http://moocs.unipus.cn
 学堂在线,webview://https://www.xuetangx.com
 网易公开课,webview://https://open.163.com
 TED(演讲),webview://https://www.ted.com
 多邻国,webview://https://www.duolingo.cn
-我要自学网,webview://https://www.51zxw.net
 网易云课堂,webview://https://study.163.com
 中国国家数字图书馆,webview://https://www.nlc.cn
 国图公开课,webview://http://open.nlc.cn
 全历史(历史知识),webview://https://www.allhistory.com
 央视纪录片,webview://https://jishi.cctv.com
-术语在线,webview://https://www.termonline.cn
-四大名著,webview://http://www.sdmz.cn
 
 科普网站,#genre#
 中国数字科技馆,webview://https://www.cdstm.cn
