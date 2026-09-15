@@ -18,6 +18,10 @@ https://ice5.somafm.com/u80s-128-mp3
 https://ice5.somafm.com/bootliquor-128-mp3
 #EXTINF:-1 tvg-id="somafm.beatblender" tvg-name="Beat Blender" tvg-logo="https://somafm.com/logos/400/beatblender400.png" group-title="SomaFM MP3" radio="true",Beat Blender
 https://ice5.somafm.com/beatblender-128-mp3
+#EXTINF:-1 tvg-id="qtfm.cn" tvg-name="怀集音乐之声" tvg-logo="http://www.fm0758.com/fm/images/yangcong.jpg" group-title="音乐FM" radio="true",怀集音乐之声
+http://lhttp.qtfm.cn/live/4804/64k.mp3
+
+
 
 
 湖南频道ipv6,#genre#
