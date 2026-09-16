@@ -1,59 +1,45 @@
-#EXTINF:-1 tvg-id="somafm.groovesalad" tvg-name="Groove Salad" tvg-logo="https://somafm.com/logos/400/groovesalad400.png" group-title="SomaFM MP3" radio="true",Groove Salad
-https://ice5.somafm.com/groovesalad-128-mp3
-#EXTINF:-1 tvg-id="somafm.dronezone" tvg-name="Drone Zone" tvg-logo="https://somafm.com/logos/400/dronezone400.png" group-title="SomaFM MP3" radio="true",Drone Zone
-https://ice5.somafm.com/dronezone-128-mp3
-#EXTINF:-1 tvg-id="somafm.deepspaceone" tvg-name="Deep Space One" tvg-logo="https://somafm.com/logos/400/deepspaceone400.png" group-title="SomaFM MP3" radio="true",Deep Space One
-https://ice5.somafm.com/deepspaceone-128-mp3
-#EXTINF:-1 tvg-id="somafm.lush" tvg-name="Lush" tvg-logo="https://somafm.com/logos/400/lush400.jpg" group-title="SomaFM MP3" radio="true",Lush
-https://ice5.somafm.com/lush-128-mp3
-#EXTINF:-1 tvg-id="somafm.indiepop" tvg-name="Indie Pop Rocks!" tvg-logo="https://somafm.com/logos/400/indiepop400.png" group-title="SomaFM MP3" radio="true",Indie Pop Rocks!
-https://ice5.somafm.com/indiepop-128-mp3
-#EXTINF:-1 tvg-id="somafm.folkfwd" tvg-name="Folk Forward" tvg-logo="https://somafm.com/logos/400/folkfwd400.jpg" group-title="SomaFM MP3" radio="true",Folk Forward
-https://ice5.somafm.com/folkfwd-128-mp3
-#EXTINF:-1 tvg-id="somafm.sonicuniverse" tvg-name="Sonic Universe" tvg-logo="https://somafm.com/logos/400/sonicuniverse400.png" group-title="SomaFM MP3" radio="true",Sonic Universe
-https://ice5.somafm.com/sonicuniverse-128-mp3
-#EXTINF:-1 tvg-id="somafm.u80s" tvg-name="Underground 80s" tvg-logo="https://somafm.com/logos/400/u80s400.png" group-title="SomaFM MP3" radio="true",Underground 80s
-https://ice5.somafm.com/u80s-128-mp3
-#EXTINF:-1 tvg-id="somafm.bootliquor" tvg-name="Boot Liquor" tvg-logo="https://somafm.com/logos/400/bootliquor400.png" group-title="SomaFM MP3" radio="true",Boot Liquor
-https://ice5.somafm.com/bootliquor-128-mp3
-#EXTINF:-1 tvg-id="somafm.beatblender" tvg-name="Beat Blender" tvg-logo="https://somafm.com/logos/400/beatblender400.png" group-title="SomaFM MP3" radio="true",Beat Blender
-https://ice5.somafm.com/beatblender-128-mp3
-#EXTINF:-1 tvg-id="qtfm.cn" tvg-name="怀集音乐之声" tvg-logo="http://www.fm0758.com/fm/images/yangcong.jpg" group-title="音乐FM" radio="true",怀集音乐之声
-http://lhttp.qtfm.cn/live/4804/64k.mp3
-
-
-
-
 湖南频道ipv6,#genre#
-CCTV4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
-CCTV16-4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
-东方卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
-广东卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=gdws4K&dur=10.001&offset=175896974
-湖南卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=hnws4K&dur=10.0066&offset=175789332
-江苏卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=jsws4K&dur=10.025&offset=175470420
-四川卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=scws4K&dur=10.032&offset=175363868
-山东卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
-深圳卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
-浙江卫视4K,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
+CCTV4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
+CCTV16-4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
+东方卫视4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
+广东卫视4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=gdws4K&dur=10.001&offset=175896974
+湖南卫视4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=hnws4K&dur=10.0066&offset=175789332
+江苏卫视4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=jsws4K&dur=10.025&offset=175470420
+四川卫视4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=scws4K&dur=10.032&offset=175363868
+山东卫视4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
+深圳卫视4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
+浙江卫视4K,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
 
 吉林频道,#genre#
-吉林卫视,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=jlws
-吉林都市,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=ds
-吉林生活,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=sh
-吉林影视,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=ys
-吉林乡村,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=xc
-吉林综艺文化,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=zy
-长春综合,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=cc
+吉林卫视,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=jlws
+吉林都市,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=ds
+吉林生活,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=sh
+吉林影视,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=ys
+吉林乡村,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=xc
+吉林综艺文化,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=zy
+长春综合,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/jlntv.js?id=cc
 
 凤凰频道,#genre#
-凤凰中文台,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/fenghuang.js?id=1016529
+凤凰中文台,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/fenghuang.js?id=1016529
+
+容器测试,#genre#
+浏览器指纹,webview://https://www.browserscan.net/zh
+浏览器指纹2,webview://https://www.todetect.cn/
+麦克风测试,webview://https://toolwa.com/mic-test/
+CPU测试,webview://https://toolwa.com/cpu-test/
+GPU测试,webview://https://toolwa.com/gpu-test/
+UA查看,webview://https://toolwa.com/ua/
+显示器参数,webview://https://toolwa.com/monitor-info/
+屏幕刷新率,webview://https://toolwa.com/fps-test/
+浴缸测试,webview://https://toolwa.com/fish/
+毒蘑菇,webview://https://toolwa.com/vsbm/
 
 测试频道,#genre#
 B站4k免限,webview://https://www.bilibili.com/video/BV1NGZtBwELa
 B站直播测试,webview://https://live.bilibili.com/24022841
 本地js1,http://A/ku9/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
 本地js2,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
-重庆js,https://gh-proxy.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/cbg.js?id=https://sj.cbg.cn/wap/list/4918/1.html
+重庆js,https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/cbg.js?id=https://sj.cbg.cn/wap/list/4918/1.html
 migu测试,https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV1综合
 音轨测试,https://r.jdshipin.com/62WM7
 H.264/MPEG-TS多语言字幕,https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
