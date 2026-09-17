@@ -9,7 +9,7 @@ UA查看,webview://https://toolwa.com/ua/
 屏幕刷新率,webview://https://toolwa.com/fps-test/
 浴缸测试,webview://https://toolwa.com/fish/
 毒蘑菇,webview://https://toolwa.com/vsbm/
-w3c鼠标测试,https://w3c.github.io/uievents/tools/mouse-event-viewer.html
+w3c鼠标测试,webview://https://w3c.github.io/uievents/tools/mouse-event-viewer.html
 
 测试频道,#genre#
 B站直播测试,webview://https://live.bilibili.com/
