@@ -93,10 +93,8 @@ https://ice5.somafm.com/sfinsf-128-mp3
 
 国内电台,#genre#
 云听,webview://https://www.radio.cn/pc-portal/erji/radioStation.html
-央广网,webview://https://www.cnr.cn/#country-radio0207
 蜻蜓FM,webview://https://www.qtfm.cn/radiopage
 喜马拉雅,webview://https://www.ximalaya.com/radio/
-FM365,webview://https://fm365.space/
 荔枝FM,webview://https://www.lizhi.fm/
 Radio Garden,webview://https://radio.garden/
 #EXTINF:-1 tvg-id="qtfm.cn" tvg-name="怀集音乐之声" tvg-logo="http://www.fm0758.com/fm/images/yangcong.jpg" group-title="国内电台" radio="true",怀集音乐之声
