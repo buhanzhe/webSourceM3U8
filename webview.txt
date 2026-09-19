@@ -316,7 +316,20 @@ GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 西宁生活服务,webview://https://xiningbcnew.zainanjing365.com/share/live/detailTv?resourceId=6&appscheme=gdmm-zhangshangxining
 
 山东频道,#genre#
+山东卫视,webview://https://v.iqilu.com/live/sdtv/
+山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
+山东体育,webview://https://v.iqilu.com/live/typd/
+山东生活,webview://https://v.iqilu.com/live/shpd/
+山东综艺,webview://https://v.iqilu.com/live/zypd/
+山东新闻,webview://https://v.iqilu.com/live/ggpd/
+山东农科,webview://https://v.iqilu.com/live/nkpd/
+山东文旅,webview://https://v.iqilu.com/live/yspd/
+山东少儿,webview://https://v.iqilu.com/live/sepd/
 山东教育卫视,webview://https://www.sdetv.com.cn/edu/pc/live/index.html
+青岛新闻综合,webview://http://www.qtv.com.cn/live/tv/index.shtml
+青岛生活服务,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+青岛财经资讯,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛都市,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
 东营1,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy0x.html
 东营2,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy0z.html
 东营3,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy03.html
@@ -324,7 +337,6 @@ GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 潍坊2,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
 潍坊3,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
 潍坊4,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
-山东卫视,webview://https://v.iqilu.com/live/sdtv/index.html
 聊城综合,webview://https://www.lcxw.cn/kands/?tag=0
 聊城民生,webview://https://www.lcxw.cn/kands/?tag=1
 
