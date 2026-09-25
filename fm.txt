@@ -93,6 +93,8 @@ https://ice5.somafm.com/sfinsf-128-mp3
 
 国内电台,#genre#
 云听,webview://https://www.radio.cn/pc-portal/erji/radioStation.html
+#EXTINF:-1 tvg-id="yyzs" tvg-name="音乐之声" tvg-logo="https://ytmedia.radio.cn/CCYT%2F202302%2F09%2F17%2Fj5t4Bt3drpLhkZnDREc2023020917793.png" group-title="国内电台" radio="true",音乐之声
+https://ytcast2.radio.cn/110/radios/40641/index_40641.m3u8
 FM365,webview://https://fm365.space/
 蜻蜓FM,webview://https://www.qtfm.cn/radiopage
 喜马拉雅,webview://https://www.ximalaya.com/radio/
