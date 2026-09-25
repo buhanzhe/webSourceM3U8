@@ -10,6 +10,9 @@ UA查看,webview://https://toolwa.com/ua/
 浴缸测试,webview://https://toolwa.com/fish/
 毒蘑菇,webview://https://toolwa.com/vsbm/
 w3c鼠标测试,webview://https://w3c.github.io/uievents/tools/mouse-event-viewer.html
+拦截测试,webview://https://adblock-tester.com/
+wasm测试,webview://https://wasm-feature-detect.surma.technology/
+浏览器属性,webview://https://1024toolbox.com/zh-cn/tools/browser-probe/
 
 测试频道,#genre#
 B站直播测试,webview://https://live.bilibili.com/
@@ -28,10 +31,3 @@ B站直播测试,webview://https://live.bilibili.com/
 微软tearsofsteel_4k_h265,https://test.playready.microsoft.com/media/profficialsite/tearsofsteel_4k_60s_24fps.12000kbps.3840x2160.h265-10b.2ch.128kbps.aac.mp4
 bbb_sunflower4k,https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_2160p_60fps_normal.mp4
 big_buck_bunny4K-h265,https://storage.googleapis.com/vulkan-video-samples/hevc/hevc-big_buck_bunny_2160p.h265
-
-广告拦截,#genre#
-测试1,webview://https://mobileproxy.space/ch/adblock-test.html
-测试2,webview://https://superadblocktest.com/
-测试3,webview://https://obfusgated.com/tools/ad-block-test
-测试4,webview://https://adblock-tester.com/
-测试5,webview://https://adblock.turtlecute.org/
