@@ -28,3 +28,10 @@ B站直播测试,webview://https://live.bilibili.com/
 微软tearsofsteel_4k_h265,https://test.playready.microsoft.com/media/profficialsite/tearsofsteel_4k_60s_24fps.12000kbps.3840x2160.h265-10b.2ch.128kbps.aac.mp4
 bbb_sunflower4k,https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_2160p_60fps_normal.mp4
 big_buck_bunny4K-h265,https://storage.googleapis.com/vulkan-video-samples/hevc/hevc-big_buck_bunny_2160p.h265
+
+广告拦截,#genre#
+测试1,webview://https://mobileproxy.space/ch/adblock-test.html
+测试2,webview://https://superadblocktest.com/
+测试3,webview://https://obfusgated.com/tools/ad-block-test
+测试4,webview://https://adblock-tester.com/
+测试5,webview://https://adblock.turtlecute.org/
