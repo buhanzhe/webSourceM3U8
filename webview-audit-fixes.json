@@ -1,0 +1,891 @@
+{
+  "date": "2026-10-22",
+  "changes": [
+    {
+      "old_name": "福建文体",
+      "old_url": "https://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
+      "name": "福州少儿",
+      "url": "https://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
+      "reason": "福州官方播放器 795 配置：少儿频道，而非福建文体"
+    },
+    {
+      "old_name": "福州都市生活",
+      "old_url": "webview://https://www.zohi.tv/app/tv/801?u-link=1",
+      "name": "福州生活",
+      "url": "webview://https://www.zohi.tv/app/tv/801",
+      "reason": "官网频道名称为生活频道；保留独立 id=801 网页"
+    },
+    {
+      "old_name": "金鹰卡通",
+      "old_url": "webview://https://www.mgtv.com/live",
+      "name": "金鹰卡通",
+      "url": "webview://https://www.mgtv.com/live/",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "金鹰卡通",
+      "old_url": "webview://http://www.mgtv.com/live/?_source_=C",
+      "name": "金鹰卡通",
+      "url": "webview://https://www.mgtv.com/live/",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "湖南经视",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=湖南经视",
+      "name": "湖南经视",
+      "url": "webview://https://www.mgtv.com/live/?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiYS5jaGFubmVsW2RhdGEtY2hhbm5lbC1zaWQ9XCIyODBcIl0iKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU2ZTU2XHU1MzU3XHU3ZWNmXHU4OWM2Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "湖南娱乐",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=湖南娱乐",
+      "name": "湖南娱乐",
+      "url": "webview://https://www.mgtv.com/live/?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiYS5jaGFubmVsW2RhdGEtY2hhbm5lbC1zaWQ9XCIzNDRcIl0iKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU2ZTU2XHU1MzU3XHU1YTMxXHU0ZTUwIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "湖南电影",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=湖南电影",
+      "name": "湖南电影",
+      "url": "webview://https://www.mgtv.com/live/?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiYS5jaGFubmVsW2RhdGEtY2hhbm5lbC1zaWQ9XCIyMjFcIl0iKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU2ZTU2XHU1MzU3XHU3NTM1XHU1ZjcxIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "湖南都市",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=湖南都市",
+      "name": "湖南都市",
+      "url": "webview://https://www.mgtv.com/live/?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiYS5jaGFubmVsW2RhdGEtY2hhbm5lbC1zaWQ9XCIzNDZcIl0iKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU2ZTU2XHU1MzU3XHU5MGZkXHU1ZTAyIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "湖南电视剧",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=湖南电视剧",
+      "name": "湖南电视剧",
+      "url": "webview://https://www.mgtv.com/live/?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiYS5jaGFubmVsW2RhdGEtY2hhbm5lbC1zaWQ9XCI0ODRcIl0iKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU2ZTU2XHU1MzU3XHU3NTM1XHU4OWM2XHU1MjY3Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "金鹰纪实",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=金鹰纪实",
+      "name": "金鹰纪实",
+      "url": "webview://https://www.mgtv.com/live/?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiYS5jaGFubmVsW2RhdGEtY2hhbm5lbC1zaWQ9XCIzMTZcIl0iKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU5MWQxXHU5ZTcwXHU3ZWFhXHU1YjllIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "湖南爱晚",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=湖南爱晚",
+      "name": "湖南爱晚",
+      "url": "webview://https://www.mgtv.com/live/?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiYS5jaGFubmVsW2RhdGEtY2hhbm5lbC1zaWQ9XCIyNjFcIl0iKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU2ZTU2XHU1MzU3XHU3MjMxXHU2NjVhIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "吉林卫视",
+      "old_url": "webview://https://www.jlntv.cn/tv?tag=0",
+      "name": "吉林卫视",
+      "url": "webview://https://www.jlntv.cn/tv",
+      "reason": "当前官网忽略 tag；卫视为默认频道，其余按精确标题自动选台"
+    },
+    {
+      "old_name": "吉林都市",
+      "old_url": "webview://https://www.jlntv.cn/tv?tag=1",
+      "name": "吉林都市",
+      "url": "webview://https://www.jlntv.cn/tv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLmxpc3Qtd3AgLml0ZW0td3AgLnRpdGxlIik7Zm9yKHZhciBpPTA7aTxhLmxlbmd0aDtpKyspe2lmKGFbaV0udGV4dENvbnRlbnQudHJpbSgpPT09Ilx1OTBmZFx1NWUwMlx1OTg5MVx1OTA1MyIpe2FbaV0uY2xpY2soKTtjbGVhckludGVydmFsKHQpO3JldHVybjt9fWlmKCsrbj49MTAwKWNsZWFySW50ZXJ2YWwodCk7fSwyMDApO30pKCk7",
+      "reason": "当前官网忽略 tag；卫视为默认频道，其余按精确标题自动选台"
+    },
+    {
+      "old_name": "吉林生活",
+      "old_url": "webview://https://www.jlntv.cn/tv?tag=2",
+      "name": "吉林生活",
+      "url": "webview://https://www.jlntv.cn/tv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLmxpc3Qtd3AgLml0ZW0td3AgLnRpdGxlIik7Zm9yKHZhciBpPTA7aTxhLmxlbmd0aDtpKyspe2lmKGFbaV0udGV4dENvbnRlbnQudHJpbSgpPT09Ilx1NzUxZlx1NmQzYlx1OTg5MVx1OTA1MyIpe2FbaV0uY2xpY2soKTtjbGVhckludGVydmFsKHQpO3JldHVybjt9fWlmKCsrbj49MTAwKWNsZWFySW50ZXJ2YWwodCk7fSwyMDApO30pKCk7",
+      "reason": "当前官网忽略 tag；卫视为默认频道，其余按精确标题自动选台"
+    },
+    {
+      "old_name": "吉林影视",
+      "old_url": "webview://https://www.jlntv.cn/tv?tag=3",
+      "name": "吉林影视",
+      "url": "webview://https://www.jlntv.cn/tv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLmxpc3Qtd3AgLml0ZW0td3AgLnRpdGxlIik7Zm9yKHZhciBpPTA7aTxhLmxlbmd0aDtpKyspe2lmKGFbaV0udGV4dENvbnRlbnQudHJpbSgpPT09Ilx1NWY3MVx1ODljNlx1OTg5MVx1OTA1MyIpe2FbaV0uY2xpY2soKTtjbGVhckludGVydmFsKHQpO3JldHVybjt9fWlmKCsrbj49MTAwKWNsZWFySW50ZXJ2YWwodCk7fSwyMDApO30pKCk7",
+      "reason": "当前官网忽略 tag；卫视为默认频道，其余按精确标题自动选台"
+    },
+    {
+      "old_name": "吉林乡村",
+      "old_url": "webview://https://www.jlntv.cn/tv?tag=4",
+      "name": "吉林乡村",
+      "url": "webview://https://www.jlntv.cn/tv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLmxpc3Qtd3AgLml0ZW0td3AgLnRpdGxlIik7Zm9yKHZhciBpPTA7aTxhLmxlbmd0aDtpKyspe2lmKGFbaV0udGV4dENvbnRlbnQudHJpbSgpPT09Ilx1NGU2MVx1Njc1MVx1OTg5MVx1OTA1MyIpe2FbaV0uY2xpY2soKTtjbGVhckludGVydmFsKHQpO3JldHVybjt9fWlmKCsrbj49MTAwKWNsZWFySW50ZXJ2YWwodCk7fSwyMDApO30pKCk7",
+      "reason": "当前官网忽略 tag；卫视为默认频道，其余按精确标题自动选台"
+    },
+    {
+      "old_name": "吉林综艺·文化",
+      "old_url": "webview://https://www.jlntv.cn/tv?tag=5",
+      "name": "吉林综艺·文化",
+      "url": "webview://https://www.jlntv.cn/tv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLmxpc3Qtd3AgLml0ZW0td3AgLnRpdGxlIik7Zm9yKHZhciBpPTA7aTxhLmxlbmd0aDtpKyspe2lmKGFbaV0udGV4dENvbnRlbnQudHJpbSgpPT09Ilx1N2VmY1x1ODI3YVx1MDBiN1x1NjU4N1x1NTMxNlx1OTg5MVx1OTA1MyIpe2FbaV0uY2xpY2soKTtjbGVhckludGVydmFsKHQpO3JldHVybjt9fWlmKCsrbj49MTAwKWNsZWFySW50ZXJ2YWwodCk7fSwyMDApO30pKCk7",
+      "reason": "当前官网忽略 tag；卫视为默认频道，其余按精确标题自动选台"
+    },
+    {
+      "old_name": "江苏卫视",
+      "old_url": "webview://https://live.jstv.com/",
+      "name": "江苏卫视",
+      "url": "webview://https://live.jstv.com/?channelId=670",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏卫视",
+      "old_url": "webview://https://live.jstv.com/?tag=江苏卫视",
+      "name": "江苏卫视",
+      "url": "webview://https://live.jstv.com/?channelId=670",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏卫视4K超高清",
+      "old_url": "webview://https://live.jstv.com/?tag=江苏卫视4K超高清",
+      "name": "江苏卫视4K",
+      "url": "webview://https://live.jstv.com/?channelId=676",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏综艺",
+      "old_url": "webview://https://live.jstv.com/?tag=江苏综艺",
+      "name": "江苏综艺",
+      "url": "webview://https://live.jstv.com/?channelId=663",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏新闻",
+      "old_url": "webview://https://live.jstv.com/?tag=江苏新闻",
+      "name": "江苏新闻",
+      "url": "webview://https://live.jstv.com/?channelId=668",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏城市",
+      "old_url": "webview://https://live.jstv.com/?tag=江苏城市",
+      "name": "江苏城市",
+      "url": "webview://https://live.jstv.com/?channelId=669",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏影视",
+      "old_url": "webview://https://live.jstv.com/?tag=江苏影视",
+      "name": "江苏影视",
+      "url": "webview://https://live.jstv.com/?channelId=664",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏教育",
+      "old_url": "webview://https://live.jstv.com/?tag=江苏教育",
+      "name": "江苏教育",
+      "url": "webview://https://live.jstv.com/?channelId=666",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏体育·休闲",
+      "old_url": "webview://https://live.jstv.com/?tag=体育休闲",
+      "name": "江苏体育休闲",
+      "url": "webview://https://live.jstv.com/?channelId=665",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江苏国际",
+      "old_url": "webview://https://live.jstv.com/?tag=江苏国际",
+      "name": "江苏国际",
+      "url": "webview://https://live.jstv.com/?channelId=671",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江西卫视",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=1#/jxtv1",
+      "name": "江西卫视",
+      "url": "webview://https://www.jxntv.cn/live/#/jxtv1",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "江西都市",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=1#/jxtv2",
+      "name": "江西都市",
+      "url": "webview://https://www.jxntv.cn/live/#/jxtv2",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "江西经济生活",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=2#/jxtv3",
+      "name": "江西经济生活",
+      "url": "webview://https://www.jxntv.cn/live/#/jxtv3",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "江西影视",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=3#/jxtv4",
+      "name": "江西影视",
+      "url": "webview://https://www.jxntv.cn/live/#/jxtv4",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "江西农业",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=4#/jxtv5",
+      "name": "江西农业",
+      "url": "webview://https://www.jxntv.cn/live/#/jxtv5",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "江西新闻",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=6#/jxtv7",
+      "name": "江西新闻",
+      "url": "webview://https://www.jxntv.cn/live/#/jxtv7",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "江西移动",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=7#/jxtv8",
+      "name": "江西移动",
+      "url": "webview://https://www.jxntv.cn/live/#/jxtv8",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "江西陶瓷",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=8#/jxtv9",
+      "name": "江西陶瓷",
+      "url": "webview://https://www.jxntv.cn/live/#/tcpd",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "榆林公共",
+      "old_url": "webview://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml",
+      "name": "榆林文化旅游",
+      "url": "webview://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml",
+      "reason": "官网独立页标题为榆林文化旅游频道"
+    },
+    {
+      "old_name": "新建兵团卫视",
+      "old_url": "webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml",
+      "name": "新疆兵团卫视",
+      "url": "webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml",
+      "reason": "修正新疆地名错字"
+    },
+    {
+      "old_name": "四川卫视",
+      "old_url": "webview://https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=1",
+      "name": "四川卫视",
+      "url": "webview://https://www.sctv.com/channelLive/1016553",
+      "reason": "旧页面已跳首页；改用当前 channelLive 独立频道路由及 defaultPlayItem"
+    },
+    {
+      "old_name": "四川新闻",
+      "old_url": "webview://https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=2",
+      "name": "四川新闻",
+      "url": "webview://https://www.sctv.com/channelLive/1844567123037646849",
+      "reason": "旧页面已跳首页；改用当前 channelLive 独立频道路由及 defaultPlayItem"
+    },
+    {
+      "old_name": "四川经济",
+      "old_url": "webview://https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=3",
+      "name": "四川经济",
+      "url": "webview://https://www.sctv.com/channelLive/1016554",
+      "reason": "旧页面已跳首页；改用当前 channelLive 独立频道路由及 defaultPlayItem"
+    },
+    {
+      "old_name": "四川文化旅游",
+      "old_url": "webview://https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=4",
+      "name": "四川文化旅游",
+      "url": "webview://https://www.sctv.com/channelLive/1016555",
+      "reason": "旧页面已跳首页；改用当前 channelLive 独立频道路由及 defaultPlayItem"
+    },
+    {
+      "old_name": "四川影视文艺",
+      "old_url": "webview://https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=5",
+      "name": "四川影视文艺",
+      "url": "webview://https://www.sctv.com/channelLive/1016557",
+      "reason": "旧页面已跳首页；改用当前 channelLive 独立频道路由及 defaultPlayItem"
+    },
+    {
+      "old_name": "四川妇女儿童",
+      "old_url": "webview://https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=6",
+      "name": "四川妇女儿童",
+      "url": "webview://https://www.sctv.com/channelLive/1016558",
+      "reason": "旧页面已跳首页；改用当前 channelLive 独立频道路由及 defaultPlayItem"
+    },
+    {
+      "old_name": "四川乡村",
+      "old_url": "webview://https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=8",
+      "name": "四川乡村",
+      "url": "webview://https://www.sctv.com/channelLive/1016560",
+      "reason": "旧页面已跳首页；改用当前 channelLive 独立频道路由及 defaultPlayItem"
+    },
+    {
+      "old_name": "四川康巴卫视",
+      "old_url": "webview://https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=9",
+      "name": "四川康巴卫视",
+      "url": "webview://https://www.sctv.com/channelLive/1016561",
+      "reason": "旧页面已跳首页；改用当前 channelLive 独立频道路由及 defaultPlayItem"
+    },
+    {
+      "old_name": "浦江电视",
+      "old_url": "webview://https://www.cditv.cn/show/4844-571.html",
+      "name": "蒲江电视",
+      "url": "webview://https://www.cditv.cn/show/4844-571.html",
+      "reason": "官网标题为蒲江电视台，修正地名错字"
+    },
+    {
+      "old_name": "郫都新闻综合https://www.cditv.cn/show/4844-580.html",
+      "old_url": "",
+      "name": "郫都新闻综合",
+      "url": "webview://https://www.cditv.cn/show/4844-580.html",
+      "reason": "修复缺少频道分隔符和 webview 协议的无效行"
+    },
+    {
+      "old_name": "广元文化生活",
+      "old_url": "webview://https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8",
+      "name": "广元文化生活",
+      "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8",
+      "reason": "地址本身为已返回 EXTM3U 的 HLS，移除错误的 webview 包装"
+    },
+    {
+      "old_name": "内蒙古卫视",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=内蒙古卫视",
+      "name": "内蒙古卫视",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1MTg1XHU4NDk5XHU1M2U0XHU1MzZiXHU4OWM2Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "内蒙古新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=新闻综合",
+      "name": "内蒙古新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU2NWIwXHU5NWZiXHU3ZWZjXHU1NDA4Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "内蒙古经济生活",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=经济生活",
+      "name": "内蒙古经济生活",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU3ZWNmXHU2ZDRlXHU3NTFmXHU2ZDNiIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "内蒙古文体娱乐",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=文体娱乐",
+      "name": "内蒙古文体娱乐",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU2NTg3XHU0ZjUzXHU1YTMxXHU0ZTUwIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "内蒙古农牧",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=农牧频道",
+      "name": "内蒙古农牧",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1MTljXHU3MjY3XHU5ODkxXHU5MDUzIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "内蒙古蒙语卫视",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=内蒙古蒙古语卫视",
+      "name": "内蒙古蒙语卫视",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1MTg1XHU4NDk5XHU1M2U0XHU4NDk5XHU1M2U0XHU4YmVkXHU1MzZiXHU4OWM2Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "内蒙古蒙语文化",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=内蒙古蒙古语文化",
+      "name": "内蒙古蒙语文化",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1MTg1XHU4NDk5XHU1M2U0XHU4NDk5XHU1M2U0XHU4YmVkXHU2NTg3XHU1MzE2XHU5ODkxXHU5MDUzIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "呼和浩特新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=呼和浩特",
+      "name": "呼和浩特新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1NDdjXHU1NDhjXHU2ZDY5XHU3Mjc5Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "包头新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=包头",
+      "name": "包头新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1MzA1XHU1OTM0Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "乌海新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=乌海",
+      "name": "乌海新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU0ZTRjXHU2ZDc3Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "赤峰新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=赤峰",
+      "name": "赤峰新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU4ZDY0XHU1Y2YwIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "呼伦贝尔新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=呼伦贝尔",
+      "name": "呼伦贝尔新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1NDdjXHU0ZjI2XHU4ZDFkXHU1YzE0Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "兴安盟新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=兴安盟",
+      "name": "兴安盟新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1MTc0XHU1Yjg5XHU3NmRmIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "通辽新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=通辽",
+      "name": "通辽新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU5MDFhXHU4ZmJkIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "锡林郭勒新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=锡林郭勒",
+      "name": "锡林郭勒新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU5NTIxXHU2Nzk3XHU5MGVkXHU1MmQyIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "乌兰察布新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=乌兰察布",
+      "name": "乌兰察布新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU0ZTRjXHU1MTcwXHU1YmRmXHU1ZTAzIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "鄂尔多斯新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=鄂尔多斯",
+      "name": "鄂尔多斯新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU5MTAyXHU1YzE0XHU1OTFhXHU2NWFmIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "巴彦淖尔新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=巴彦淖尔",
+      "name": "巴彦淖尔新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1ZGY0XHU1ZjY2XHU2ZGQ2XHU1YzE0Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "阿拉善新闻综合",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=阿拉善",
+      "name": "阿拉善新闻综合",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU5NjNmXHU2MmM5XHU1NTg0Iil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "优漫卡通",
+      "old_url": "webview://https://live.jstv.com/?tag=优漫卡通",
+      "name": "优漫卡通",
+      "url": "webview://https://live.jstv.com/?channelId=667",
+      "reason": "官网当前频道表与路由代码确认 channelId；替换忽略的 tag，统一同频道入口"
+    },
+    {
+      "old_name": "江西少儿",
+      "old_url": "webview://https://www.jxntv.cn/live/?tag=5#/jxtv6",
+      "name": "江西少儿",
+      "url": "webview://https://www.jxntv.cn/live/#/jxtv6",
+      "reason": "官网根据 hash 的 tvid 选台，去掉无效 tag；陶瓷频道的真实键为 tcpd，不是 jxtv9"
+    },
+    {
+      "old_name": "内蒙少儿",
+      "old_url": "webview://https://www.nmtv.cn/liveTv?tag=少儿频道",
+      "name": "内蒙少儿",
+      "url": "webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1YzExXHU1MTNmXHU5ODkxXHU5MDUzIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D",
+      "reason": "官网不读取 tag；用已存在的 ujs 机制等待频道列表后按精确名称自动选台，不固化短效签名"
+    },
+    {
+      "old_name": "金鹰卡通",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=金鹰卡通",
+      "name": "金鹰卡通",
+      "url": "webview://https://www.mgtv.com/live/",
+      "reason": "官网频道列表与 DOM 的 data-channel-sid 确认频道；替换不生效的 tag，默认金鹰卡通统一入口"
+    },
+    {
+      "old_name": "晋江电视台",
+      "old_url": "webview://http://www.jinjiang.tv/live/",
+      "name": "晋江电视台",
+      "url": "webview://https://www.ijjnews.com/folder5356/?u-link=1",
+      "reason": "旧晋江域名重定向到首页；当前官网已收录独立直播页"
+    },
+    {
+      "old_name": "广州综合",
+      "old_url": "webview://https://www.gztv.com/#/channel",
+      "name": "广州综合",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3001",
+      "reason": "旧广视网页面未定位频道，改用官方花城+ 综合频道 code=3001"
+    },
+    {
+      "old_name": "广州综合",
+      "old_url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3006",
+      "name": "广州综合",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3001",
+      "reason": "官网当前电视列表仅有 3001/3002/3003；综合频道修正为 3001，去掉无关 a 参数并合并重复"
+    },
+    {
+      "old_name": "广州综合",
+      "old_url": "webview://https://app.gztv.com/plusshare/?a=1#/tvDetail?code=3001",
+      "name": "广州综合",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3001",
+      "reason": "官网当前电视列表仅有 3001/3002/3003；综合频道修正为 3001，去掉无关 a 参数并合并重复"
+    },
+    {
+      "old_name": "广州新闻",
+      "old_url": "webview://https://app.gztv.com/plusshare/?a=2#/tvDetail?code=3002",
+      "name": "广州新闻",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3002",
+      "reason": "官网当前电视列表仅有 3001/3002/3003；综合频道修正为 3001，去掉无关 a 参数并合并重复"
+    },
+    {
+      "old_name": "广州南国都市",
+      "old_url": "webview://https://app.gztv.com/plusshare/?a=3#/tvDetail?code=3003",
+      "name": "广州南国都市",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3003",
+      "reason": "官网当前电视列表仅有 3001/3002/3003；综合频道修正为 3001，去掉无关 a 参数并合并重复"
+    },
+    {
+      "old_name": "江门综合",
+      "old_url": "webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2",
+      "name": "江门综合",
+      "url": "webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1",
+      "reason": "官网 pid=2 实际为 FM93.3 广播；综合电视对应 pid=1，修复后与已有入口合并"
+    },
+    {
+      "old_name": "太原新闻综合",
+      "old_url": "webview://https://web.wx.sztv.com.cn/cms/rmt2018/23/23mbdszb/index.shtml",
+      "name": "太原新闻综合",
+      "url": "webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml",
+      "reason": "规范太原频道实际重定向的官网地址，合并重复"
+    },
+    {
+      "old_name": "临沧综合",
+      "old_url": "webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51fa40e4b04f16d0288832",
+      "name": "临沧新闻综合",
+      "url": "webview://https://mtydazzle.yntv.cn/pages/liveDetails/detail.html/?companyId=lincang&_id=5f51fa40e4b04f16d0288832&isTest=no",
+      "reason": "旧 .net 证书失效；改用已有官方 .cn 网页，相同直播 ID"
+    },
+    {
+      "old_name": "孝感生活",
+      "old_url": "webview://https://share.xgrb.cn/live_detail?newsid=25009684_xgrb",
+      "name": "孝感生活",
+      "url": "webview://https://share.xgrb.cn/live_details?newsid=25009684_xgrb",
+      "reason": "按服务器重定向修正实际直播路径"
+    },
+    {
+      "old_name": "延边朝语综合",
+      "old_url": "webview://https://www.iyb983.cn/live/index.html",
+      "name": "延边朝鲜语综合",
+      "url": "webview://https://www.iyb983.cn/ybtv1/",
+      "reason": "电视聚合页替换为官网朝鲜语综合独立页"
+    },
+    {
+      "old_name": "南昌新闻综合",
+      "old_url": "webview://https://www.nctv.net.cn/live",
+      "name": "南昌新闻综合",
+      "url": "webview://https://www.nctv.net.cn/live?channel=1",
+      "reason": "新闻综合默认入口与已收录的同频道参数入口统一"
+    },
+    {
+      "old_name": "吕梁综合",
+      "old_url": "webview://https://www.sxrtv.com/tv/index.shtml?u-link=1",
+      "name": "吕梁新闻综合",
+      "url": "webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811840.html",
+      "reason": "省台聚合页不定位吕梁；改为已收录且标题明确的吕梁独立直播页"
+    },
+    {
+      "old_name": "CGTN记录",
+      "old_url": "webview://https://yangshipin.cn/tv/home?pid=600084781",
+      "name": "CGTN纪录",
+      "url": "webview://https://yangshipin.cn/tv/home?pid=600084781",
+      "reason": "修正纪录频道名称用字"
+    },
+    {
+      "old_name": "福建综合",
+      "old_url": "webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248990102917120&company_id=468&utaot=1",
+      "name": "福建综合频道",
+      "url": "webview://https://live.fjtv.net/zhpd/",
+      "reason": "云直播旧页访问 403；改用官网仍公开列出的同频道独立直播页面，并合并已有入口"
+    },
+    {
+      "old_name": "东南卫视",
+      "old_url": "webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248966136664064&company_id=468&utaot=1",
+      "name": "东南卫视",
+      "url": "webview://https://live.fjtv.net/setv/",
+      "reason": "云直播旧页访问 403；改用官网仍公开列出的同频道独立直播页面，并合并已有入口"
+    },
+    {
+      "old_name": "福建新闻",
+      "old_url": "webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248914378952704&company_id=468&utaot=1",
+      "name": "福建新闻频道",
+      "url": "webview://https://live.fjtv.net/xwpd/",
+      "reason": "云直播旧页访问 403；改用官网仍公开列出的同频道独立直播页面，并合并已有入口"
+    },
+    {
+      "old_name": "福建少儿",
+      "old_url": "webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248553475870720&company_id=468&utaot=1",
+      "name": "福建少儿频道",
+      "url": "webview://https://live.fjtv.net/sepd/",
+      "reason": "云直播旧页访问 403；改用官网仍公开列出的同频道独立直播页面，并合并已有入口"
+    },
+    {
+      "old_name": "海峡卫视",
+      "old_url": "webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248523855695872&company_id=468&utaot=1",
+      "name": "海峡卫视",
+      "url": "webview://https://live.fjtv.net/hxtv/",
+      "reason": "云直播旧页访问 403；改用官网仍公开列出的同频道独立直播页面，并合并已有入口"
+    },
+    {
+      "old_name": "福州新闻综合",
+      "old_url": "webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=731087090473676800&company_id=468&utaot=1",
+      "name": "福州综合",
+      "url": "webview://https://www.zohi.tv/app/tv/804",
+      "reason": "省站云页面访问 403；改用福州台官方 id=804 独立综合频道播放器"
+    },
+    {
+      "old_name": "长沙新闻综合",
+      "old_url": "webview://https://www.mgtv.com/live/?tag=长沙新闻综合",
+      "name": "长沙新闻综合",
+      "url": "webview://https://web.guangdianyun.tv/tv/346?uin=1648&userSource=weixin",
+      "reason": "芒果当前不列出长沙台；替换为已收录的长沙官方独立直播页"
+    },
+    {
+      "old_name": "青岛生活服务",
+      "old_url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml",
+      "name": "青岛经济生活",
+      "url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml",
+      "reason": "按官网当前频道导航与独立页标题修正名称（原生活服务）"
+    },
+    {
+      "old_name": "青岛财经资讯",
+      "old_url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml",
+      "name": "青岛银色年华",
+      "url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml",
+      "reason": "按官网当前频道导航与独立页标题修正名称（原财经资讯）"
+    },
+    {
+      "old_name": "青岛都市",
+      "old_url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml",
+      "name": "青岛教育",
+      "url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml",
+      "reason": "QTV5 官网明确为教育频道，原标注都市有误"
+    },
+    {
+      "old_name": "青岛教育",
+      "old_url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml",
+      "name": "青岛教育",
+      "url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml",
+      "reason": "官网当前教育频道为 QTV5；QTV6 已不在当前频道导航中，统一教育入口"
+    },
+    {
+      "old_name": "泰安综合频道",
+      "old_url": "webview://http://live.1545ts.net/zhibotatv2.html",
+      "name": "泰安经济生活",
+      "url": "webview://http://live.1545ts.net/zhibotatv2.html",
+      "reason": "独立页标题为 TATV经济生活，原标注综合有误"
+    },
+    {
+      "old_name": "泰安综合",
+      "old_url": "webview://http://www.1545ts.com/zhibo/taian/zhibotatv1.html",
+      "name": "泰安综合",
+      "url": "webview://http://live.1545ts.net/zhibotatv1.html",
+      "reason": "替换老站嵌入页为官方直播子域名的独立频道页，已核对页面标题和对应 HLS 配置"
+    },
+    {
+      "old_name": "泰安经济生活",
+      "old_url": "webview://http://www.1545ts.com/zhibo/taian/zhibotatv2.html",
+      "name": "泰安经济生活",
+      "url": "webview://http://live.1545ts.net/zhibotatv2.html",
+      "reason": "替换老站嵌入页为官方直播子域名的独立频道页，已核对页面标题和对应 HLS 配置"
+    }
+  ],
+  "removed_duplicates": [
+    {
+      "name": "金鹰卡通",
+      "url": "webview://https://www.mgtv.com/live/",
+      "kept_name": "金鹰卡通",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "webview://https://www.jlntv.cn/tv",
+      "kept_name": "吉林卫视",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "webview://https://live.jstv.com/?channelId=670",
+      "kept_name": "江苏卫视",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "webview://https://live.jstv.com/?channelId=670",
+      "kept_name": "江苏卫视",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏卫视4K",
+      "url": "webview://https://live.jstv.com/?channelId=676",
+      "kept_name": "江苏卫视4K",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏综艺",
+      "url": "webview://https://live.jstv.com/?channelId=663",
+      "kept_name": "江苏综艺",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏新闻",
+      "url": "webview://https://live.jstv.com/?channelId=668",
+      "kept_name": "江苏新闻",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏城市",
+      "url": "webview://https://live.jstv.com/?channelId=669",
+      "kept_name": "江苏城市",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏影视",
+      "url": "webview://https://live.jstv.com/?channelId=664",
+      "kept_name": "江苏影视",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏教育",
+      "url": "webview://https://live.jstv.com/?channelId=666",
+      "kept_name": "江苏教育",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏体育休闲",
+      "url": "webview://https://live.jstv.com/?channelId=665",
+      "kept_name": "江苏体育休闲",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "江苏国际",
+      "url": "webview://https://live.jstv.com/?channelId=671",
+      "kept_name": "江苏国际",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "郫都新闻综合",
+      "url": "webview://https://www.cditv.cn/show/4844-580.html",
+      "kept_name": "郫都新闻综合",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "广元文化生活",
+      "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8",
+      "kept_name": "广元文化生活",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "优漫卡通",
+      "url": "webview://https://live.jstv.com/?channelId=667",
+      "kept_name": "优漫卡通",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "金鹰卡通",
+      "url": "webview://https://www.mgtv.com/live/",
+      "kept_name": "金鹰卡通",
+      "reason": "修复后指向相同频道 URL，保留首次记录"
+    },
+    {
+      "name": "晋江电视台",
+      "url": "webview://https://www.ijjnews.com/folder5356/?u-link=1",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "广州综合",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3001",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "广州综合",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3001",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "广州新闻",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3002",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "广州南国都市",
+      "url": "webview://https://app.gztv.com/plusshare/#/tvDetail?code=3003",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "江门综合",
+      "url": "webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "太原新闻综合",
+      "url": "webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "临沧新闻综合",
+      "url": "webview://https://mtydazzle.yntv.cn/pages/liveDetails/detail.html/?companyId=lincang&_id=5f51fa40e4b04f16d0288832&isTest=no",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "延边朝鲜语综合",
+      "url": "webview://https://www.iyb983.cn/ybtv1/",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "南昌新闻综合",
+      "url": "webview://https://www.nctv.net.cn/live?channel=1",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "吕梁新闻综合",
+      "url": "webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811840.html",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "福建综合频道",
+      "url": "webview://https://live.fjtv.net/zhpd/",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "东南卫视",
+      "url": "webview://https://live.fjtv.net/setv/",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "福建新闻频道",
+      "url": "webview://https://live.fjtv.net/xwpd/",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "福建少儿频道",
+      "url": "webview://https://live.fjtv.net/sepd/",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "海峡卫视",
+      "url": "webview://https://live.fjtv.net/hxtv/",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "长沙新闻综合",
+      "url": "webview://https://web.guangdianyun.tv/tv/346?uin=1648&userSource=weixin",
+      "reason": "同频道替换为独立入口后与已有记录相同"
+    },
+    {
+      "name": "青岛教育",
+      "url": "webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    },
+    {
+      "name": "泰安经济生活",
+      "url": "webview://http://live.1545ts.net/zhibotatv2.html",
+      "reason": "修复后与已收录频道 URL 相同，保留首次记录"
+    }
+  ]
+}

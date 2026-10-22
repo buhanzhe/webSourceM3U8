@@ -1,0 +1,50 @@
+已移除频道的新入口复查（2026-10-22）
+
+本轮范围：安徽原 8 条、扬州原 4 条、青岛影视原 1 条。
+结论：恢复扬州 3 条稳定 HLS 入口；安徽卫视现有央视频入口已覆盖；其余未确认可直接使用的新入口。
+新发现的流媒体地址按现有列表格式直接收录，不加 webview:// 包装。
+
+扬州（按官方 getChannelDetail 接口核对）：
+原扬州一套 / id=235 → 新闻频道 → 扬州新闻
+https://yztv-wshls.yzbtv.cn/live/8bb.m3u8
+原扬州二套 / id=291 → 民生频道 → 扬州民生
+https://yztv-wshls.yzbtv.cn/live/8bd.m3u8
+原扬州江都 / id=290 → 江都频道 → 扬州江都
+https://yztv-wshls.yzbtv.cn/live/8c1.m3u8
+三路均 HTTP 200、EXTM3U 有效，二次采样媒体序列增加；ffprobe 识别到 H.264 视频和 AAC 音频。
+新闻为 1920×1080，民生、江都为 1280×720；本次未作电视端长时间实播测试。
+原扬州三套 / id=236 → 官方目前名为生活频道，8bf.m3u8 返回 404，未恢复。
+
+官方频道详情接口：
+https://vapp.96189.com/setsail/external/externalService?service=getChannelDetail&params=%7B%22channelId%22%3A%22235%22%7D&apiVersion=2.9
+其他频道替换 channelId 为 291、290、236。
+接口当前 playUrl 同时提供 homecdn.com / yzbtv.cn 的地址；本次直接验证 yzbtv.cn 上述三路无查询参数的清单及媒体信息成功。
+
+官方新版 H5 频道主页（有“正在直播”链接，非直接播放页，未作为新列表地址）：
+https://share.96189.com/yfs/channel/235/homepage
+https://share.96189.com/yfs/channel/291/homepage
+https://share.96189.com/yfs/channel/290/homepage
+https://share.96189.com/yfs/channel/236/homepage
+旧 /client/app/index.html#/channel/<id> 是空白路由；/live/1 子路由缺少脚本并报错，不采用。
+新版主页的直播链接包含随节目变化的 ID；没有把当前节目 ID 固化为频道 URL。
+
+安徽：
+安徽卫视：现有卫视频道分组已收录 https://yangshipin.cn/tv/home?pid=600002532 ，不重复增加。
+安徽经济生活、安徽综艺·体育、安徽国际、安徽影视、安徽公共、安徽农业·科教、安徽移动电视：
+未确认可直接打开目标频道并播放的公开网页新入口，暂不补回。
+旧直播路径仍重定向官方《公告》：
+https://www.ahrtv.cn/news/zlk/2026/08/31/C3ONSRwrXjFzNSMS.html
+官网当前各频道“看直播”按钮 href 为 javascript:;，没有提供新的播放链接。
+发现安徽视讯 App 取流线索，但涉及动态签名，不能作为稳定静态 URL 填入列表；未生成/固化临时签名流。
+
+青岛影视：
+https://www.qtv.com.cn/live/tv/tv_qtv3.shtml 仍是跳转首页的页面。
+官网首页 QTV-3 的直播链接已处于 HTML 注释中；当前直播页导航仅有 QTV-1、2、4、5。
+未确认新的可直接使用的影视频道网页，暂不补回。
+https://www.qtv.com.cn/live/tv/index.shtml
+检索到 qtv3at 流的第三方技术线索，但这不等于公开可用的网页入口；不把需额外处理的流当成可播放直链收录。
+
+辅助线索来源（频道身份/可用性以上述官方接口与实测为准）：
+https://github.com/akiralereal/iptv/tree/main/extractors/yangzhou
+https://github.com/akiralereal/iptv/tree/main/extractors/anhui
+https://github.com/akiralereal/iptv/tree/main/extractors/qingdao
