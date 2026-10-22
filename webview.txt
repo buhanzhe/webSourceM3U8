@@ -278,6 +278,11 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 南京新闻综合,webview://http://www.nbs.cn/live/
 江宁综合,webview://http://tv.haoqu99.com/3/jiangsu/jiangning.html?u-link=1
 无锡移动,webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
+无锡新闻综合,webview://http://bb-share.wifiwx.com/wxbb/share/live/?channel_id=4
+无锡娱乐,webview://http://bb-share.wifiwx.com/wxbb/share/live/?channel_id=8
+无锡都市资讯,webview://http://bb-share.wifiwx.com/wxbb/share/live/?channel_id=9
+无锡生活,webview://http://bb-share.wifiwx.com/wxbb/share/live/?channel_id=10
+无锡经济,webview://http://bb-share.wifiwx.com/wxbb/share/live/?channel_id=11
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
@@ -370,11 +375,14 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 泉州闽南语,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKofcKh/stream_name/mny.html
 晋江电视台,webview://https://www.ijjnews.com/folder5356/?u-link=1
 泉州永春融媒,webview://https://web.guangdianyun.tv/tv/1792?uin=2311
+石狮新闻综合,webview://https://www.chinashishi.net/folder113/folder120/
 厦门卫视,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727571808803282944&company_id=468&utaot=1
 漳州新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727214415649083392&company_id=468&utaot=1
 龙岩综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727212352215093248&company_id=468&utaot=1
 三明综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727216678547394560&company_id=468&utaot=1
 南平综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727216450918322176&company_id=468&utaot=1
+宁德新闻综合,webview://https://app.0593tv.cn/jhxtapi/jhxt/Live/newsShow/id/19
+宁德文化旅游,webview://https://app.0593tv.cn/jhxtapi/jhxt/Live/newsShow/id/20
 平潭新闻综合,webview://https://web.guangdianyun.tv/tv/907?uin=1118&utaot=1&ujs=X3R2RnVuYy5jaGVjayhmdW5jdGlvbiAoKXtyZXR1cm4gJCQoIiNmb2xsb3ctc2tpbiIpLmxlbmd0aD4wfSxmdW5jdGlvbiAoKXskJCgiI2ZvbGxvdy1za2luIikucmVtb3ZlKCk7fSk7
 
 江西频道,#genre#
@@ -420,6 +428,9 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 潍坊2,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
 潍坊3,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
 潍坊4,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+济宁综合,webview://https://www.jnnews.tv/fuesf/TV?channel=6
+济宁生活,webview://https://www.jnnews.tv/fuesf/TV?channel=5
+济宁文旅,webview://https://www.jnnews.tv/fuesf/TV?channel=7
 泰安经济生活,webview://http://live.1545ts.net/zhibotatv2.html
 泰安综合,webview://http://live.1545ts.net/zhibotatv1.html
 威海新闻综合,webview://https://hi.hiweihai.net/htmlinc/tv/index.html
