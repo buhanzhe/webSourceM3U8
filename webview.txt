@@ -296,7 +296,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 泰州-1,http://stream1.mytaizhou.net/xwzhnew/playlist.m3u8
 泰州新闻综合,webview://https://m.miguvideo.com/m/liveDetail/639731818
 宿迁综合,webview://https://m.miguvideo.com/m/liveDetail/639731832
-铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
 
 浙江频道,#genre#
 浙江卫视,webview://https://www.cztv.com/liveTV/101
@@ -577,7 +576,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
 GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
-开平综合,webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
 广东现代教育,webview://https://www.gdtv.cn/tvChannelDetail/111
 广东经济科教,webview://https://jsv-live.sfccn.com/index?id=3920
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
@@ -603,6 +601,8 @@ GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
 韶关,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 韶关新闻综合,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.HGiuAr&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
+肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
+开平综合,webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
 江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 信宜综合,webview://https://web.guangdianyun.tv/tv/?id=643&uin=1629
 五华电视台,webview://https://kmcxmpvzb.vzan.com/live/page/1448741529?v=1745716308000
@@ -669,6 +669,9 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 海口城乡经济,webview://https://hkbtv.cn/h5/#/pagesVideo/tvDetail?articleType=1&id=6414658595168719922&publishType=2
 儋州综合,webview://https://web.guangdianyun.tv/tv/1330?uin=1669
 
+重庆频道,#genre#
+重庆新闻综合,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
+
 四川频道,#genre#
 康巴卫视,webview://https://www.kangbatv.com/zb_22587/
 四川卫视,webview://https://www.sctv.com/channelLive/1016553
@@ -728,7 +731,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 雅安新闻综合,webview://https://www.beiww.com/shiting
 甘孜综合,webview://https://www.ganzitv.com/cms/tv
 南江综合,webview://https://web.guangdianyun.tv/tv/?id=1670&uin=1822
-重庆新闻综合,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
 贵州频道,#genre#
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
@@ -747,7 +749,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 贵州移动电视,webview://https://www.gzstv.com/tv/ch13?utao=1
 安顺新闻综合,webview://https://www.gzastv.cn/live/live.shtml
 黔南新闻综合,webview://http://m.qntv.net/cms-tv
-肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
 
 云南频道,#genre#
 云南卫视,webview://https://www.yntv.cn/live.html
@@ -793,6 +794,7 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 西安戏剧影视,webview://https://v.xiancity.cn/folder8/folder39/folder32/m/
 西安丝路,webview://https://v.xiancity.cn/folder8/folder39/folder33/m/
 西安移动电视,webview://https://v.xiancity.cn/folder8/
+铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
 咸阳综合,webview://https://www.sxxynews.com.cn/tvradio/xyzhpd.html
 商洛综合,https://player4.juyun.tv/camera/171844138.m3u8
 延安综合,https://srs.yanews.cn/video/YATV-1/index.m3u8
