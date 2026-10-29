@@ -117,7 +117,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 福州少儿,webview://https://www.zohi.tv/app/tv/795
 
 4K频道,#genre#
-河北卫视4K,https://event.pull.hebtv.com/live/live101.m3u8
 上海卫视4k,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 江苏卫视4K,webview://https://live.jstv.com/?channelId=676
 苏州卫视4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
@@ -136,8 +135,8 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 北京体育,webview://https://www.btime.com/btv/btvsy_index?tag=5
 北京生活,webview://https://www.btime.com/btv/btvsy_index?tag=6
 北京新闻,webview://https://www.btime.com/btv/btvsy_index?tag=7
-
 昌平综合,webview://https://web.guangdianyun.tv/tv/3341?uin=3698
+
 河北频道,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
@@ -683,6 +682,7 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
 GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
+香港卫视,webview://https://www.hkstv.tv/live
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
