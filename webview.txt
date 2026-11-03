@@ -899,7 +899,7 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 安康1,https://miku-live-hls.akrt.cn/akapptv/zhpdhd.m3u8
 安康1,http://www.akxw.cn/col2076.html
 安康2,https://miku-live-hls.akrt.cn/akapptv/ggpdhd.m3u8
-西部电影，http://gxlive.snrtv.com./sx8-SD.m3u8
+西部电影,http://gxlive.snrtv.com./sx8-SD.m3u8
 
 甘肃频道,#genre#
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
