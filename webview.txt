@@ -858,6 +858,10 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 榆林文化旅游,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml
 榆林综合,https://49c1f938208318cdf8288bc36b62472a.livehwc4.com/hplayer1.juyun.tv/camera/186023110.m3u8
 榆林文化旅游,https://49c1f938208318cdf8288bc36b62472a.livehwc4.com/hplayer1.juyun.tv/camera/186022194.m3u8
+安康1,https://miku-live-hls.akrt.cn/akapptv/zhpdhd.m3u8
+安康1,http://www.akxw.cn/col2076.html
+安康2,https://miku-live-hls.akrt.cn/akapptv/ggpdhd.m3u8
+西部电影,http://gxlive.snrtv.com./sx8-SD.m3u8
 
 甘肃频道,#genre#
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
