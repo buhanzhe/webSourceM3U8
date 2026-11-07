@@ -120,6 +120,7 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 苏州卫视4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 苏州卫视4K,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 广东卫视4K,webview://https://www.gdtv.cn/tvChannelDetail/16
 深圳卫视4K,http://livepull-tcyzb.sztv.com.cn/4KBack.m3u8
 深圳卫视4K,webview://https://www.sztv.com.cn/dianshi.shtml?id=24725
