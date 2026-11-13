@@ -109,7 +109,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 
 少儿频道,#genre#
 海南少儿,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=7
-北京少儿,webview://https://www.btime.com/btv/btvsy_index?tag=8
 内蒙少儿,webview://https://www.nmtv.cn/liveTv?ujs=KGZ1bmN0aW9uKCl7dmFyIG49MCx0PXNldEludGVydmFsKGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnR2LWxpc3QgLmMtbGFiZWwiKTtmb3IodmFyIGk9MDtpPGEubGVuZ3RoO2krKyl7aWYoYVtpXS50ZXh0Q29udGVudC50cmltKCk9PT0iXHU1YzExXHU1MTNmXHU5ODkxXHU5MDUzIil7YVtpXS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJuO319aWYoKytuPj0xMDApY2xlYXJJbnRlcnZhbCh0KTt9LDIwMCk7fSkoKTs%3D
 深圳少儿,webview://https://www.sztv.com.cn/dianshi.shtml?id=7881&u-link=1
 福州少儿,webview://https://www.zohi.tv/app/tv/795
@@ -126,15 +125,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 深圳卫视4K,webview://https://www.sztv.com.cn/dianshi.shtml?id=24725
 
 北京频道,#genre#
-北京卫视,webview://https://www.btime.com/btv/btvsy_index?tag=0
-北京文艺,webview://https://www.btime.com/btv/btvsy_index?tag=1
-北京纪实科教,webview://https://www.btime.com/btv/btvsy_index?tag=2
-北京影视,webview://https://www.btime.com/btv/btvsy_index?tag=3
-北京财经,webview://https://www.btime.com/btv/btvsy_index?tag=4
-北京体育,webview://https://www.btime.com/btv/btvsy_index?tag=5
-北京生活,webview://https://www.btime.com/btv/btvsy_index?tag=6
-北京新闻,webview://https://www.btime.com/btv/btvsy_index?tag=7
-昌平综合,webview://https://web.guangdianyun.tv/tv/3341?uin=3698
 
 河北频道,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
@@ -313,8 +303,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 泰州-3,http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 泰州新闻综合,webview://https://m.miguvideo.com/m/liveDetail/639731818
 宿迁综合,webview://https://m.miguvideo.com/m/liveDetail/639731832
-南通社教,webview://https://www.ntjoy.com/ntw/broadcastTvs.html?menuCode=ntw005&ujs=KG49PntsZXQgdD1zZXRJbnRlcnZhbCgoKT0%2Be2Zvcih2YXIgZSBvZiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCIuc3dpcGVyLXNsaWRlIikpaWYoZS50ZXh0Q29udGVudC50cmltKCk9PSLljZfpgJrkuozlpZfCt%2BekvuaVmemikemBkyIpe2UuY2xpY2soKTtjbGVhckludGVydmFsKHQpO3JldHVybn1pZigrK24%2BOTkpY2xlYXJJbnRlcnZhbCh0KX0sNTAwKX0pKDAp
-南通公共,webview://https://www.ntjoy.com/ntw/broadcastTvs.html?menuCode=ntw005&ujs=KG49PntsZXQgdD1zZXRJbnRlcnZhbCgoKT0%2Be2Zvcih2YXIgZSBvZiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCIuc3dpcGVyLXNsaWRlIikpaWYoZS50ZXh0Q29udGVudC50cmltKCk9PSLljZfpgJrkuInlpZfCt%2BWFrOWFsemikemBkyIpe2UuY2xpY2soKTtjbGVhckludGVydmFsKHQpO3JldHVybn1pZigrK24%2BOTkpY2xlYXJJbnRlcnZhbCh0KX0sNTAwKX0pKDAp
 新沂综合,webview://https://web.guangdianyun.tv/tv/3177?uin=1812
 淮安公共,webview://https://web.guangdianyun.tv/tv/3886?uin=1610
 
@@ -427,7 +415,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 福清综合,webview://https://web.guangdianyun.tv/tv/699?uin=1945
 闽侯综合,webview://https://web.guangdianyun.tv/tv/2068?uin=2656
 泉港一套,webview://https://web.guangdianyun.tv/tv/2333?uin=3708
-霞浦新闻,webview://https://web.guangdianyun.tv/tv/3952?uin=4744
 
 江西频道,#genre#
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
@@ -511,7 +498,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 河南文物宝库,webview://https://static.hntv.tv/total/television/?id=155&u-link=1
 河南武术世界,webview://https://static.hntv.tv/total/television/?id=156&u-link=1
 河南武术世界,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
-河南曲艺,webview://https://static.hntv.tv/total/television/?id=157&u-link=1
 河南国学,webview://https://static.hntv.tv/total/television/?id=194&u-link=1
 河南远程党员教育,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=0
 河南卫视,webview://https://static.hntv.tv/total/television/?id=145&u-link=1
@@ -564,7 +550,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
 湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
 黄石新闻综合,webview://https://web.guangdianyun.tv/tv/3031?uin=3065
-黄石都市频道,webview://https://web.guangdianyun.tv/tv/3032?uin=3065
 直播黄石,webview://https://web.guangdianyun.tv/tv/3071?uin=3065
 十堰新闻综合,webview://https://www.syiptv.com/tv?station_id=1
 十堰经济旅游,webview://https://www.syiptv.com/tv?station_id=3
@@ -730,15 +715,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 重庆新闻综合,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
 四川频道,#genre#
-康巴卫视,webview://https://www.kangbatv.com/zb_22587/
-四川卫视,webview://https://www.sctv.com/channelLive/1016553
-四川新闻,webview://https://www.sctv.com/channelLive/1844567123037646849
-四川经济,webview://https://www.sctv.com/channelLive/1016554
-四川文化旅游,webview://https://www.sctv.com/channelLive/1016555
-四川影视文艺,webview://https://www.sctv.com/channelLive/1016557
-四川妇女儿童,webview://https://www.sctv.com/channelLive/1016558
-四川乡村,webview://https://www.sctv.com/channelLive/1016560
-四川康巴卫视,webview://https://www.sctv.com/channelLive/1016561
 每经 AI 电视,webview://https://www.nbd.com.cn/corp/AiTv/index.html?u-link=1
 成都蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
 简阳新闻综合,webview://https://www.cditv.cn/show/4844-578.html
@@ -761,7 +737,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 成都公共频道,webview://https://web.cdmp.candocloud.cn/wap/show/4845-559.html
 成都少儿频道,webview://https://web.cdmp.candocloud.cn/wap/show/4845-558.html
 成都蓉城先锋,webview://https://web.cdmp.candocloud.cn/wap/show/4845-592.html
-成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
 成都都市生活,webview://https://www.cditv.cn/show/4845-561.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
 成都影视文艺,webview://https://www.cditv.cn/show/4845-560.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
