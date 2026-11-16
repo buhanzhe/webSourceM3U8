@@ -151,12 +151,7 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 山西卫视,webview://https://apphhplushttps.sxrtv.com//television/live_wap_650.html
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 太原新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811850.html
-大同新闻综合,webview://http://share.dtradio.com.cn/?_hgOutLink=live/livedetail&channel_id=16
-大同公共,webview://http://share.dtradio.com.cn/?_hgOutLink=live/livedetail&channel_id=8
-大同生活,webview://http://share.dtradio.com.cn/?_hgOutLink=live/livedetail&channel_id=9
-大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
 阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
-阳泉科教,webview://https://www.yqrtv.com/folder74/folder139?id=11
 阳泉新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811848.html
 阳泉科教,webview://http://share.yqrtv.com/?_hgOutLink=live/livedetail&channel_id=11
 长治新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811847.html
@@ -171,8 +166,6 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 晋中综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811844.html
 临汾综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811841.html
 运城综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811843.html
-大同公共,webview://https://www.dtradio.com.cn/local/folder25?ujs=KG49PntsZXQgdD1zZXRJbnRlcnZhbCgoKT0%2Be2Zvcih2YXIgZSBvZiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCJsaSIpKWlmKGUudGV4dENvbnRlbnQudHJpbSgpPT0i5YWs5YWx6aKR6YGTIil7ZS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJufWlmKCsrbj45OSljbGVhckludGVydmFsKHQpfSw1MDApfSkoMCk%3D
-大同生活,webview://https://www.dtradio.com.cn/local/folder25?ujs=KG49PntsZXQgdD1zZXRJbnRlcnZhbCgoKT0%2Be2Zvcih2YXIgZSBvZiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCJsaSIpKWlmKGUudGV4dENvbnRlbnQudHJpbSgpPT0i5aSn5ZCM55Sf5rS76aKR6YGTIil7ZS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJufWlmKCsrbj45OSljbGVhckludGVydmFsKHQpfSw1MDApfSkoMCk%3D
 太原都市,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml?ujs=KG49PntsZXQgdD1zZXRJbnRlcnZhbCgoKT0%2Be2lmKHdpbmRvdy5jbWNQbGF5ZXI%2FLmg1UGxheWVyPy5wbGF5ZXJQbGF5KWZvcih2YXIgZSBvZiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCIubGlzdCIpKWlmKGUudGV4dENvbnRlbnQudHJpbSgpPT0i6YO95biC6aKR6YGTIil7ZS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJufWlmKCsrbj45OSljbGVhckludGVydmFsKHQpfSw1MDApfSkoMCk%3D
 太原社教法制,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml?ujs=KG49PntsZXQgdD1zZXRJbnRlcnZhbCgoKT0%2Be2lmKHdpbmRvdy5jbWNQbGF5ZXI%2FLmg1UGxheWVyPy5wbGF5ZXJQbGF5KWZvcih2YXIgZSBvZiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCIubGlzdCIpKWlmKGUudGV4dENvbnRlbnQudHJpbSgpPT0i56S%2B5pWZ5rOV5Yi26aKR6YGTIil7ZS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJufWlmKCsrbj45OSljbGVhckludGVydmFsKHQpfSw1MDApfSkoMCk%3D
 太原城市生活,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml?ujs=KG49PntsZXQgdD1zZXRJbnRlcnZhbCgoKT0%2Be2lmKHdpbmRvdy5jbWNQbGF5ZXI%2FLmg1UGxheWVyPy5wbGF5ZXJQbGF5KWZvcih2YXIgZSBvZiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCIubGlzdCIpKWlmKGUudGV4dENvbnRlbnQudHJpbSgpPT0i5Z%2BO5biC55Sf5rS7Iil7ZS5jbGljaygpO2NsZWFySW50ZXJ2YWwodCk7cmV0dXJufWlmKCsrbj45OSljbGVhckludGVydmFsKHQpfSw1MDApfSkoMCk%3D
@@ -740,7 +733,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
 成都都市生活,webview://https://www.cditv.cn/show/4845-561.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
 成都影视文艺,webview://https://www.cditv.cn/show/4845-560.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
-成都公共,webview://https://www.cditv.cn/show/4845-559.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
 成都少儿,webview://https://www.cditv.cn/show/4845-558.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
 成都蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html?utaot=1&ujs=JCQoIi5oZWFkZXIiKS5yZW1vdmUoKQ==
 温江综合,webview://https://www.cditv.cn/show/4844-582.html
